@@ -11,6 +11,7 @@
 8. [Autoencoders](#autoencoders)
 9. [Restricted Boltzmann Machines](#restricted-boltzmann-machines)
 10. [Biologically Plausible Learning](#biologically-plausible-learning)
+11. [Unsupervised Learning](#unsupervised-learning)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -109,3 +110,9 @@
 * [How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation](http://arxiv.org/abs/1407.7906 "Yoshua Bengio")
 * [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156 "Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin")
 * [Random feedback weights support learning in deep neural networks](http://arxiv.org/abs/1411.0247 "Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, Colin J. Akerman")
+
+## Unsupervised Learning
+* [Index-learning of unsupervised low dimensional embedding](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/graham/indexlearning.pdf "Ben Graham")
+* [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang")
+* [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
+* [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
