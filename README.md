@@ -2,15 +2,29 @@
 
 ## Table of Contents
 1. [Surveys](#surveys)
-2. [Learning to Compute](#learning-to-compute)
-3. [Natural Language Processing](#natural-language-processing)
-4. [Convolutional Neural Networks](#convolutional-neural-networks)
-5. [Datasets](#datasets)
-6. [Programming Frameworks](#programming-frameworks)
+2. [Datasets](#datasets)
+3. [Programming Frameworks](#programming-frameworks)
+4. [Learning to Compute](#learning-to-compute)
+5. [Natural Language Processing](#natural-language-processing)
+6. [Convolutional Neural Networks](#convolutional-neural-networks)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828 "Juergen Schmidhuber")
+
+## Datasets
+* [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698 "Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush")
+* [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau")
+
+## Programming Frameworks
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093 "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell")
+  * [Improving Caffe: Some Refactoring](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-improving.pdf "Yangqing Jia")
+* [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf "James Bergstra, Olivier Breuleux, Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, Guillaume Desjardins, Joseph Turian, David Warde-Farley, Yoshua Bengio")
+  * [Theano: new features and speed improvements](http://arxiv.org/abs/1211.5590 "Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, James Bergstra, Ian Goodfellow, Arnaud Bergeron, Nicolas Bouchard, David Warde-Farley, Yoshua Bengio")
+  * [Blocks and Fuel: Frameworks for deep learning](http://arxiv.org/abs/1506.00619 "Bart van Merriënboer, Dzmitry Bahdanau, Vincent Dumoulin, Dmitriy Serdyuk, David Warde-Farley, Jan Chorowski, Yoshua Bengio")
+* [Torch7: A Matlab-like Environment for Machine Learning](http://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf "Ronan Collobert, Koray Kavukcuoglu, Clément Farabet")
+* [cuDNN: Efficient Primitives for Deep Learning](http://arxiv.org/abs/1410.0759 "Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, Bryan Catanzaro, Evan Shelhamer")
+* [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/abs/1412.7580 "Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, Yann LeCun")
 
 ## Learning to Compute
 * [Neural Turing Machines](http://arxiv.org/abs/1410.5401 "Alex Graves, Greg Wayne, Ivo Danihelka")
@@ -24,7 +38,6 @@
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
 
 ## Natural Language Processing
-* [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698 "Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush")
 * [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
 * [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
 * [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler")
@@ -58,16 +71,3 @@
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
-
-## Datasets
-* [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau")
-
-## Programming Frameworks
-* [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093 "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell")
-  * [Improving Caffe: Some Refactoring](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-improving.pdf "Yangqing Jia")
-* [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf "James Bergstra, Olivier Breuleux, Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, Guillaume Desjardins, Joseph Turian, David Warde-Farley, Yoshua Bengio")
-  * [Theano: new features and speed improvements](http://arxiv.org/abs/1211.5590 "Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, James Bergstra, Ian Goodfellow, Arnaud Bergeron, Nicolas Bouchard, David Warde-Farley, Yoshua Bengio")
-  * [Blocks and Fuel: Frameworks for deep learning](http://arxiv.org/abs/1506.00619 "Bart van Merriënboer, Dzmitry Bahdanau, Vincent Dumoulin, Dmitriy Serdyuk, David Warde-Farley, Jan Chorowski, Yoshua Bengio")
-* [Torch7: A Matlab-like Environment for Machine Learning](http://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf "Ronan Collobert, Koray Kavukcuoglu, Clément Farabet")
-* [cuDNN: Efficient Primitives for Deep Learning](http://arxiv.org/abs/1410.0759 "Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, Bryan Catanzaro, Evan Shelhamer")
-* [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/abs/1412.7580 "Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, Yann LeCun")
