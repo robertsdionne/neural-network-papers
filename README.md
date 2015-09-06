@@ -4,6 +4,7 @@
 1. [Surveys](#surveys)
 2. [Learning to Compute](#learning-to-compute)
 3. [Natural Language Processing](#natural-language-processing)
+4. [Convolutional Neural Networks](#convolutional-neural-networks)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -35,3 +36,23 @@
 * [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075 "Kai Sheng Tai, Richard Socher, Christopher D. Manning")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
+
+## Convolutional Neural Networks
+* [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
+* [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
+* [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
+* [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
+* [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
+* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
+* [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox")
+* [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389 "Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell")
+* [A Machine Learning Approach for Filtering Monte Carlo Noise](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF "Nima Khademi Kalantari, Steve Bako, Pradeep Sen")
+* [Image Super-Resolution Using Deep Convolutional Networks](http://arxiv.org/abs/1501.00092 "Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang")
+* [Learning to Deblur](http://arxiv.org/abs/1406.7444 "Christian J. Schuler, Michael Hirsch, Stefan Harmeling, Bernhard Schölkopf")
+* [Monocular Object Instance Segmentation and Depth Ordering with CNNs](http://arxiv.org/abs/1505.03159 "Ziyu Zhang, Alexander G. Schwing, Sanja Fidler, Raquel Urtasun")
+* [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852 "Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox")
+* [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv.org/abs/1502.01852 "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun")
+* [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
+* [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
+* [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
