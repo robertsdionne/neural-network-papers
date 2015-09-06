@@ -9,6 +9,7 @@
 6. [Convolutional Neural Networks](#convolutional-neural-networks)
 7. [Recurrent Neural Networks](#recurrent-neural-networks)
 8. [Autoencoders](#autoencoders)
+9. [Restricted Boltzmann Machines](#restricted-boltzmann-machines)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -97,3 +98,8 @@
 * [Generalized Denoising Auto-Encoders as Generative Models](http://arxiv.org/abs/1305.6663 "Yoshua Bengio, Li Yao, Guillaume Alain, Pascal Vincent")
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
+
+## Restricted Boltzmann Machines
+* [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
+* [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
+* [Quantum Inspired Training for Boltzmann Machines](http://arxiv.org/abs/1507.02642 "Nathan Wiebe, Ashish Kapoor, Christopher Granade, Krysta M Svore")
