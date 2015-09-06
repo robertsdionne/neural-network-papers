@@ -7,6 +7,7 @@
 4. [Learning to Compute](#learning-to-compute)
 5. [Natural Language Processing](#natural-language-processing)
 6. [Convolutional Neural Networks](#convolutional-neural-networks)
+7. [Recurrent Neural Networks](#recurrent-neural-networks)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -71,3 +72,19 @@
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
+
+## Recurrent Neural Networks
+* [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
+* [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda")
+* [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
+* [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf "Grégoire Mesnil, Xiaodong He, Li Deng, Yoshua Bengio")
+* [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526 "Nal Kalchbrenner, Ivo Danihelka, Alex Graves")
+* [Long Short-Term Memory](http://people.idsia.ch/~juergen/rnn.html "Sepp Hochreiter Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)
+  * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
+* [Learning Longer Memory in Recurrent Neural Networks](http://arxiv.org/abs/1412.7753 "Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu, Marc'Aurelio Ranzato")
+* [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](http://arxiv.org/abs/1504.00941 "Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton")
+* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
+* [A Clockwork RNN](http://arxiv.org/abs/1402.3511 "Jan Koutník, Klaus Greff, Faustino Gomez, Jürgen Schmidhuber")
+* [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623 "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra")
+* [Gated Feedback Recurrent Neural Networks](http://arxiv.org/abs/1502.02367 "Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
+* [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
