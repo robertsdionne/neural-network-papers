@@ -10,6 +10,7 @@
 7. [Recurrent Neural Networks](#recurrent-neural-networks)
 8. [Autoencoders](#autoencoders)
 9. [Restricted Boltzmann Machines](#restricted-boltzmann-machines)
+10. [Biologically Plausible Learning](#biologically-plausible-learning)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -103,3 +104,8 @@
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
 * [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
 * [Quantum Inspired Training for Boltzmann Machines](http://arxiv.org/abs/1507.02642 "Nathan Wiebe, Ashish Kapoor, Christopher Granade, Krysta M Svore")
+
+## Biologically Plausible Learning
+* [How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation](http://arxiv.org/abs/1407.7906 "Yoshua Bengio")
+* [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156 "Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin")
+* [Random feedback weights support learning in deep neural networks](http://arxiv.org/abs/1411.0247 "Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, Colin J. Akerman")
