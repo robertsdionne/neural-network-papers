@@ -167,6 +167,7 @@
 * [A quantum speedup in machine learning: Finding a N-bit Boolean function for a classification](http://arxiv.org/abs/1303.6055 "Seokwon Yoo, Jeongho Bang, Changhyoup Lee, Jinhyoung Lee")
 
 ## Training Innovations
+* [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
 * [Accelerating Stochastic Gradient Descent via Online Learning to Sample](http://arxiv.org/abs/1506.09016 "Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon")
 * [Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424 "Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra")
