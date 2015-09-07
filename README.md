@@ -114,6 +114,8 @@
 * [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852 "Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox")
 * [DeepStereo: Learning to Predict New Views from the World's Imagery](http://arxiv.org/abs/1506.06825 "John Flynn, Ivan Neulander, James Philbin, Noah Snavely")
 * [Deep convolutional filter banks for texture recognition and segmentation](http://arxiv.org/abs/1411.6836 "Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi")
+* [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832 "Florian Schroff, Dmitry Kalenichenko, James Philbin")
+* [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/ "Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf")
 * [Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network](http://arxiv.org/abs/1504.04658 "Andrew J.R. Simpson, Gerard Roma, Mark D. Plumbley")
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv.org/abs/1502.01852 "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun")
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
