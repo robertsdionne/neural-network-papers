@@ -87,6 +87,7 @@
 * [Learning to Deblur](http://arxiv.org/abs/1406.7444 "Christian J. Schuler, Michael Hirsch, Stefan Harmeling, Bernhard Schölkopf")
 * [Monocular Object Instance Segmentation and Depth Ordering with CNNs](http://arxiv.org/abs/1505.03159 "Ziyu Zhang, Alexander G. Schwing, Sanja Fidler, Raquel Urtasun")
 * [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852 "Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox")
+* [DeepStereo: Learning to Predict New Views from the World's Imagery](http://arxiv.org/abs/1506.06825 "John Flynn, Ivan Neulander, James Philbin, Noah Snavely")
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv.org/abs/1502.01852 "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun")
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
