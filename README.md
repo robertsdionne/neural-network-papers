@@ -19,10 +19,11 @@
 16. [Numerical Optimization](#numerical-optimization)
 17. [Numerical Precision](#numerical-precision)
 18. [Cognitive Architectures](#cognitive-architectures)
-19. [Computational Creativity](#computational-creativity)
-20. [Cryptography](#cryptography)
-21. [Distributed Computing](#distributed-computing)
-22. [Clustering](#clustering)
+19. [Motion Planning](#motion-planning)
+20. [Computational Creativity](#computational-creativity)
+21. [Cryptography](#cryptography)
+22. [Distributed Computing](#distributed-computing)
+23. [Clustering](#clustering)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -104,7 +105,6 @@
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
 * [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
 * [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox")
 * [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389 "Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell")
 * [A Machine Learning Approach for Filtering Monte Carlo Noise](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF "Nima Khademi Kalantari, Steve Bako, Pradeep Sen")
@@ -243,6 +243,13 @@
 ## Cognitive Architectures
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
 * [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith")
+
+## Motion Planning
+* [Continuous Character Control with Low-Dimensional Embeddings](https://graphics.stanford.edu/projects/ccclde/ "Sergey Levine,	Jack M. Wang,	Alexis Haraux,	Zoran Popović,	Vladlen Koltun")
+* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
+* [Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186 "Sertac Karaman, Emilio Frazzoli") ([youtu.be/r34XWEZ41HA](http://youtu.be/r34XWEZ41HA))
+  * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
+  * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4))
 
 ## Computational Creativity
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
