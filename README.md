@@ -69,6 +69,7 @@
 * [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075 "Kai Sheng Tai, Richard Socher, Christopher D. Manning")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
 
 ## Convolutional Neural Networks
 * [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025 "Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu")
@@ -90,6 +91,7 @@
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
+* [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
 
 ## Recurrent Neural Networks
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
@@ -106,6 +108,7 @@
 * [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623 "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra")
 * [Gated Feedback Recurrent Neural Networks](http://arxiv.org/abs/1502.02367 "Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
 * [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 
 ## Autoencoders
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
@@ -149,7 +152,13 @@
 * [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](http://arxiv.org/abs/1312.6120 "Andrew M. Saxe, James L. McClelland, Surya Ganguli")
 * [On the Stability of Deep Networks](http://arxiv.org/abs/1412.5896 "Raja Giryes, Guillermo Sapiro, Alex M. Bronstein")
 * [Over-Sampling in a Deep Neural Network](http://arxiv.org/abs/1502.03648 "Andrew J.R. Simpson")
+* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/ "Christopher Olah")
+* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/ "Christopher Olah")
+* [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/ "Christopher Olah")
+* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ "Christopher Olah")
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/ "Christopher Olah")
 * [Causal Entropic Forces](http://www.alexwg.org/publications/PhysRevLett_110-168702.pdf "A. D. Wissner-Gross, C. E. Freer")
+* [Physics, Topology, Logic and Computation: A Rosetta Stone](http://arxiv.org/abs/0903.0340 "John C. Baez, Mike Stay")
 
 ## Quantum Computing
 * [Analyzing Big Data with Dynamic Quantum Clustering](http://arxiv.org/abs/1310.2700 "M. Weinstein, F. Meirer, A. Hume, Ph. Sciau, G. Shaked, R. Hofstetter, E. Persi, A. Mehta, D. Horn")
