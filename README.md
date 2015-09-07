@@ -109,6 +109,7 @@
 * [Generalized Denoising Auto-Encoders as Generative Models](http://arxiv.org/abs/1305.6663 "Yoshua Bengio, Li Yao, Guillaume Alain, Pascal Vincent")
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
+* [Real-time Hebbian Learning from Autoencoder Features for Control Tasks](http://mitpress.mit.edu/sites/default/files/titles/content/alife14/ch034.html "Justin K. Pugh, Andrea Soltoggio, Kenneth O. Stanley")
 
 ## Restricted Boltzmann Machines
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
