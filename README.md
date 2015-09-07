@@ -18,6 +18,7 @@
 15. [Training Innovations](#training-innovations)
 16. [Numerical Optimization](#numerical-optimization)
 17. [Numerical Precision](#numerical-precision)
+18. [Cryptography](#cryptography)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -177,3 +178,6 @@
 ## Numerical Precision
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
+
+## Cryptography
+* [Crypto-Nets: Neural Networks over Encrypted Data](http://arxiv.org/abs/1412.6181 "Pengtao Xie, Misha Bilenko, Tom Finley, Ran Gilad-Bachrach, Kristin Lauter, Michael Naehrig")
