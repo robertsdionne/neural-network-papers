@@ -208,6 +208,9 @@
 * [Compressing Neural Networks with the Hashing Trick](http://jmlr.org/proceedings/papers/v37/chenc15.html "Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, Yixin Chen")
 
 ## Numerical Optimization
+* [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
+  * [Recursive Decomposition for Nonconvex Optimization: Supplementary Material](http://homes.cs.washington.edu/~afriesen/papers/ijcai2015sp.pdf "Abram L. Friesen, Pedro Domingos")
+* [Beating the Perils of Non-Convexity: Guaranteed Training of Neural Networks using Tensor Methods](http://arxiv.org/abs/1506.08473 "Majid Janzamin, Hanie Sedghi, Anima Anandkumar")
 * [Graphical Newton](http://arxiv.org/abs/1508.00952 "Akshay Srinivasan, Emanuel Todorov")
 * [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/abs/1506.05254 "John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel")
 * [Equilibrated adaptive learning rates for non-convex optimization](http://arxiv.org/abs/1502.04390 "Yann N. Dauphin, Harm de Vries, Yoshua Bengio")
