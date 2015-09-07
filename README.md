@@ -16,6 +16,7 @@
 13. [Theory](#theory)
 14. [Quantum Computing](#quantum-computing)
 15. [Training Innovations](#training-innovations)
+16. [Numerical Optimization](#numerical-optimization)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -159,3 +160,15 @@
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
 * [Domain-Adversarial Neural Networks](http://arxiv.org/abs/1412.4446 "Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand")
 * [Compressing Neural Networks with the Hashing Trick](http://jmlr.org/proceedings/papers/v37/chenc15.html "Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, Yixin Chen")
+
+## Numerical Optimization
+* [Equilibrated adaptive learning rates for non-convex optimization](http://arxiv.org/abs/1502.04390 "Yann N. Dauphin, Harm de Vries, Yoshua Bengio")
+* [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.magicbroom.info/Papers/DuchiHaSi10.pdf "John Duchi, Elad Hazan, Yoram Singer")
+* [ADADELTA: An Adaptive Learning Rate Method](http://arxiv.org/abs/1212.5701 "Matthew D. Zeiler")
+* [ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient](http://arxiv.org/abs/1412.7419 "Caglar Gulcehre, Yoshua Bengio")
+* [Adam: A Method for Stochastic Optimization](http://arxiv.org/abs/1412.6980 "Diederik Kingma, Jimmy Ba")
+* [A sufficient and necessary condition for global optimization](http://www.sciencedirect.com/science/article/pii/S0893965909002869 "Dong-Hua Wu, Wu-Yang Yu, Quan Zheng")
+* [Unit Tests for Stochastic Optimization](http://arxiv.org/abs/1312.6055 "Tom Schaul, Ioannis Antonoglou, David Silver")
+* [A* Sampling](http://arxiv.org/abs/1411.0030 "Chris J. Maddison, Daniel Tarlow, Tom Minka")
+* [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114 "Yuxin Chen, Emmanuel J. Candes")
+* [Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767 "Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind")
