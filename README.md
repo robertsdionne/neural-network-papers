@@ -20,12 +20,13 @@
 17. [Training Innovations](#training-innovations)
 18. [Numerical Optimization](#numerical-optimization)
 19. [Numerical Precision](#numerical-precision)
-20. [Cognitive Architectures](#cognitive-architectures)
-21. [Motion Planning](#motion-planning)
-22. [Computational Creativity](#computational-creativity)
-23. [Cryptography](#cryptography)
-24. [Distributed Computing](#distributed-computing)
-25. [Clustering](#clustering)
+21. [Hardware](#hardware)
+22. [Cognitive Architectures](#cognitive-architectures)
+23. [Motion Planning](#motion-planning)
+24. [Computational Creativity](#computational-creativity)
+25. [Cryptography](#cryptography)
+26. [Distributed Computing](#distributed-computing)
+27. [Clustering](#clustering)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -60,6 +61,7 @@
 
 ## Natural Language Processing
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
+* [Language Models for Image Captioning: The Quirks and What Works](http://arxiv.org/abs/1505.01809 "Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell")
 
 ### Word Vectors
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
@@ -80,6 +82,7 @@
 
 ### Sequence-to-Sequence Learning
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
+* [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
 * [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
 * [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
 
@@ -93,6 +96,7 @@
 * [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
+* [VQA: Visual Question Answering](http://arxiv.org/abs/1505.00468 "Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh")
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
@@ -126,6 +130,7 @@
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
+* [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/abs/1312.6034 "Karen Simonyan, Andrea Vedaldi, Andrew Zisserman")
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
 
@@ -141,12 +146,12 @@
 * [A Clockwork RNN](http://arxiv.org/abs/1402.3511 "Jan Koutník, Klaus Greff, Faustino Gomez, Jürgen Schmidhuber")
 * [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623 "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra")
 * [Gated Feedback Recurrent Neural Networks](http://arxiv.org/abs/1502.02367 "Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
-* [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 * [A Recurrent Latent Variable Model for Sequential Data](http://arxiv.org/abs/1506.02216 "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio")
 * [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](http://arxiv.org/abs/1505.00393 "Francesco Visin, Kyle Kastner, Kyunghyun Cho, Matteo Matteucci, Aaron Courville, Yoshua Bengio")
 * [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://arxiv.org/abs/1412.4729 "Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko")
 * [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681 "Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov")
+* [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078 "Andrej Karpathy, Justin Johnson, Fei-Fei Li")
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 
 ## Convolutional Recurrent Neural Networks
 * [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/abs/1506.04214 "Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, Wang-chun Woo")
@@ -174,7 +179,8 @@
 
 ## Biologically Plausible Learning
 * [How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation](http://arxiv.org/abs/1407.7906 "Yoshua Bengio")
-* [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156 "Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin")
+  * [Difference Target Propagation](http://arxiv.org/abs/1412.7525 "Dong-Hyun Lee, Saizheng Zhang, Asja Fischer, Antoine Biard, Yoshua Bengio")
+  * [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156 "Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin")
 * [Random feedback weights support learning in deep neural networks](http://arxiv.org/abs/1411.0247 "Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, Colin J. Akerman")
 
 ## Supervised Learning
@@ -249,6 +255,7 @@
 * [Graphical Newton](http://arxiv.org/abs/1508.00952 "Akshay Srinivasan, Emanuel Todorov")
 * [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/abs/1506.05254 "John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel")
 * [Equilibrated adaptive learning rates for non-convex optimization](http://arxiv.org/abs/1502.04390 "Yann N. Dauphin, Harm de Vries, Yoshua Bengio")
+* [Path-SGD: Path-Normalized Optimization in Deep Neural Networks](http://arxiv.org/abs/1506.02617 "Behnam Neyshabur, Ruslan Salakhutdinov, Nathan Srebro")
 * [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.magicbroom.info/Papers/DuchiHaSi10.pdf "John Duchi, Elad Hazan, Yoram Singer")
 * [ADADELTA: An Adaptive Learning Rate Method](http://arxiv.org/abs/1212.5701 "Matthew D. Zeiler")
 * [ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient](http://arxiv.org/abs/1412.7419 "Caglar Gulcehre, Yoshua Bengio")
@@ -263,6 +270,9 @@
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
 * [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
+
+## Hardware
+* [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
 
 ## Cognitive Architectures
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
