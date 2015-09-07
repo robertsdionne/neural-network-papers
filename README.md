@@ -151,9 +151,10 @@
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda")
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
-* [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526 "Nal Kalchbrenner, Ivo Danihelka, Alex Graves")
 * [Long Short-Term Memory](http://people.idsia.ch/~juergen/rnn.html "Sepp Hochreiter Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)
   * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
+  * [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526 "Nal Kalchbrenner, Ivo Danihelka, Alex Graves")
+  * [Depth-Gated LSTM](http://arxiv.org/abs/1508.03790 "Kaisheng Yao, Trevor Cohn, Katerina Vylomova, Kevin Duh, Chris Dyer")
 * [Learning Longer Memory in Recurrent Neural Networks](http://arxiv.org/abs/1412.7753 "Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu, Marc'Aurelio Ranzato")
 * [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](http://arxiv.org/abs/1504.00941 "Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton")
 * [A Clockwork RNN](http://arxiv.org/abs/1402.3511 "Jan Koutník, Klaus Greff, Faustino Gomez, Jürgen Schmidhuber")
@@ -178,6 +179,7 @@
 * [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle")
 * [k-Sparse Autoencoders](http://arxiv.org/abs/1312.5663 "Alireza Makhzani, Brendan Frey")
 * [Zero-bias autoencoders and the benefits of co-adapting features](http://arxiv.org/abs/1402.3337 "Kishore Konda, Roland Memisevic, David Krueger")
+* [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519 "Yuri Burda, Roger Grosse, Ruslan Salakhutdinov")
 * [Generalized Denoising Auto-Encoders as Generative Models](http://arxiv.org/abs/1305.6663 "Yoshua Bengio, Li Yao, Guillaume Alain, Pascal Vincent")
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
@@ -303,6 +305,7 @@
 
 ## Hardware
 * [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
+* [AHaH Computing–From Metastable Switches to Attractors to Machine Learning](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085175 "Michael Alexander Nugent, Timothy Wesley Molter")
 
 ## Cognitive Architectures
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
