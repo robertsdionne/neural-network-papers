@@ -17,6 +17,7 @@
 14. [Quantum Computing](#quantum-computing)
 15. [Training Innovations](#training-innovations)
 16. [Numerical Optimization](#numerical-optimization)
+17. [Numerical Precision](#numerical-precision)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -172,3 +173,7 @@
 * [A* Sampling](http://arxiv.org/abs/1411.0030 "Chris J. Maddison, Daniel Tarlow, Tom Minka")
 * [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114 "Yuxin Chen, Emmanuel J. Candes")
 * [Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767 "Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind")
+
+## Numerical Precision
+* [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
+* [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
