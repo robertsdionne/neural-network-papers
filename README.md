@@ -207,6 +207,7 @@
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
+* [No Regret Bound for Extreme Bandits](http://arxiv.org/abs/1508.02933 "Robert Nishihara, David Lopez-Paz, Léon Bottou")
 * [Accelerating Stochastic Gradient Descent via Online Learning to Sample](http://arxiv.org/abs/1506.09016 "Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon")
 * [Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424 "Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra")
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
