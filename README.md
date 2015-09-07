@@ -172,6 +172,8 @@
 * [Compressing Neural Networks with the Hashing Trick](http://jmlr.org/proceedings/papers/v37/chenc15.html "Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, Yixin Chen")
 
 ## Numerical Optimization
+* [Graphical Newton](http://arxiv.org/abs/1508.00952 "Akshay Srinivasan, Emanuel Todorov")
+* [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/abs/1506.05254 "John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel")
 * [Equilibrated adaptive learning rates for non-convex optimization](http://arxiv.org/abs/1502.04390 "Yann N. Dauphin, Harm de Vries, Yoshua Bengio")
 * [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.magicbroom.info/Papers/DuchiHaSi10.pdf "John Duchi, Elad Hazan, Yoram Singer")
 * [ADADELTA: An Adaptive Learning Rate Method](http://arxiv.org/abs/1212.5701 "Matthew D. Zeiler")
