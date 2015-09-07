@@ -19,6 +19,7 @@
 16. [Numerical Optimization](#numerical-optimization)
 17. [Numerical Precision](#numerical-precision)
 18. [Cryptography](#cryptography)
+19. [Distributed Computing](#distributed-computing)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -181,3 +182,9 @@
 
 ## Cryptography
 * [Crypto-Nets: Neural Networks over Encrypted Data](http://arxiv.org/abs/1412.6181 "Pengtao Xie, Misha Bilenko, Tom Finley, Ran Gilad-Bachrach, Kristin Lauter, Michael Naehrig")
+
+## Distributed Computing
+* [Dimension Independent Similarity Computation](http://arxiv.org/abs/1206.2082 "Reza Bosagh Zadeh, Ashish Goel")
+  * [Dimension Independent Matrix Square using MapReduce](http://arxiv.org/abs/1304.1467 "Reza Bosagh Zadeh, Gunnar Carlsson")
+  * [All-pairs similarity via DIMSUM](https://blog.twitter.com/2014/all-pairs-similarity-via-dimsum "Reza Zadeh")
+* [A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/abs/1406.2294 "John Lamping, Eric Veach")
