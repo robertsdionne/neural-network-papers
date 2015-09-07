@@ -111,6 +111,7 @@
 * [Gated Feedback Recurrent Neural Networks](http://arxiv.org/abs/1502.02367 "Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
 * [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
+* [A Recurrent Latent Variable Model for Sequential Data](http://arxiv.org/abs/1506.02216 "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio")
 
 ## Autoencoders
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
