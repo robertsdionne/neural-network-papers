@@ -14,6 +14,7 @@
 11. [Unsupervised Learning](#unsupervised-learning)
 12. [Reinforcement Learning](#reinforcement-learning)
 13. [Theory](#theory)
+14. [Quantum Computing](#quantum-computing)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -135,3 +136,9 @@
 * [On the Stability of Deep Networks](http://arxiv.org/abs/1412.5896 "Raja Giryes, Guillermo Sapiro, Alex M. Bronstein")
 * [Over-Sampling in a Deep Neural Network](http://arxiv.org/abs/1502.03648 "Andrew J.R. Simpson")
 * [Causal Entropic Forces](http://www.alexwg.org/publications/PhysRevLett_110-168702.pdf "A. D. Wissner-Gross, C. E. Freer")
+
+## Quantum Computing
+* [Analyzing Big Data with Dynamic Quantum Clustering](http://arxiv.org/abs/1310.2700 "M. Weinstein, F. Meirer, A. Hume, Ph. Sciau, G. Shaked, R. Hofstetter, E. Persi, A. Mehta, D. Horn")
+* [Quantum algorithms for supervised and unsupervised machine learning](http://arxiv.org/abs/1307.0411 "Seth Lloyd, Masoud Mohseni, Patrick Rebentrost")
+* [Entanglement-Based Machine Learning on a Quantum Computer](http://arxiv.org/abs/1409.7770 "X.-D. Cai, D. Wu, Z.-E. Su, M.-C. Chen, X.-L. Wang, L. Li, N.-L. Liu, C.-Y. Lu, J.-W. Pan")
+* [A quantum speedup in machine learning: Finding a N-bit Boolean function for a classification](http://arxiv.org/abs/1303.6055 "Seokwon Yoo, Jeongho Bang, Changhyoup Lee, Jinhyoung Lee")
