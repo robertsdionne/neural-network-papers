@@ -68,6 +68,7 @@
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
 * [Inverted indexing for cross-lingual NLP](http://cst.dk/anders/inverted.pdf "Anders Søgaard, Željko Agić, Héctor Martínez Alonso, Barbara Plank, Bernd Bohnet, Anders Johannsen")
+* [Random walks on discourse spaces: a new generative language model with applications to semantic word embeddings](http://arxiv.org/abs/1502.03520 "Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski")
 
 ### Sentence and Paragraph Vectors
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
@@ -97,6 +98,7 @@
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
 * [VQA: Visual Question Answering](http://arxiv.org/abs/1505.00468 "Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh")
+* [Question Answering with Subgraph Embeddings](https://research.facebook.com/publications/1473550739586509/question-answering-with-subgraph-embeddings/ "Antoine Bordes, Sumit Chopra, Jason Weston")
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
@@ -155,6 +157,7 @@
 * [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681 "Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov")
 * [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078 "Andrej Karpathy, Justin Johnson, Fei-Fei Li")
 * [Advances in Optimizing Recurrent Networks](http://arxiv.org/abs/1212.0901 "Yoshua Bengio, Nicolas Boulanger-Lewandowski, Razvan Pascanu")
+* [Learning Stochastic Recurrent Networks](http://arxiv.org/abs/1411.7610 "Justin Bayer, Christian Osendorfer")
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 
 ## Convolutional Recurrent Neural Networks
