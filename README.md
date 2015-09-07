@@ -184,6 +184,7 @@
   * [Denoising autoencoder with modulated lateral connections learns invariant representations of natural images](http://arxiv.org/abs/1412.7210 "Antti Rasmus, Tapani Raiko, Harri Valpola")
   * [Lateral Connections in Denoising Autoencoders Support Supervised Learning](http://arxiv.org/abs/1504.08215 "Antti Rasmus, Harri Valpola, Tapani Raiko")
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
+* [An Analysis of Single-Layer Networks in Unsupervised Feature Learning](http://ai.stanford.edu/~ang/papers/nipsdlufl10-AnalysisSingleLayerUnsupervisedFeatureLearning.pdf "Adam Coates, Honglak Lee, Andrew Y. Ng")
 
 ## Reinforcement Learning
 * [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis")
