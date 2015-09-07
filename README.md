@@ -86,6 +86,7 @@
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941 "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay")
 
 ### Question Answering, and Conversing
+* [Large-scale Simple Question Answering with Memory Networks](http://arxiv.org/abs/1506.02075 "Antoine Bordes, Nicolas Usunier, Sumit Chopra, Jason Weston")
 * [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
