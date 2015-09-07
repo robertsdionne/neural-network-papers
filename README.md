@@ -62,6 +62,7 @@
 * [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
+* [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
 * [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom")
 * [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
