@@ -102,6 +102,7 @@
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
+* [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882 "Yoon Kim")
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
 * [Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv.org/abs/1503.01838 "Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu")
@@ -205,6 +206,7 @@
   * [Lateral Connections in Denoising Autoencoders Support Supervised Learning](http://arxiv.org/abs/1504.08215 "Antti Rasmus, Harri Valpola, Tapani Raiko")
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
 * [An Analysis of Single-Layer Networks in Unsupervised Feature Learning](http://ai.stanford.edu/~ang/papers/nipsdlufl10-AnalysisSingleLayerUnsupervisedFeatureLearning.pdf "Adam Coates, Honglak Lee, Andrew Y. Ng")
+* [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585 "Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli")
 
 ## Reinforcement Learning
 * [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis")
@@ -224,6 +226,7 @@
 * [Over-Sampling in a Deep Neural Network](http://arxiv.org/abs/1502.03648 "Andrew J.R. Simpson")
 * [A theoretical argument for complex-valued convolutional networks](http://arxiv.org/abs/1503.03438 "Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, Mark Tygert")
 * [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641 "Ankit B. Patel, Tan Nguyen, Richard G. Baraniuk")
+* [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163 "Mikael Henaff, Joan Bruna, Yann LeCun")
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/ "Christopher Olah")
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/ "Christopher Olah")
 * [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/ "Christopher Olah")
@@ -245,6 +248,7 @@
 * [Scale-invariant learning and convolutional networks](http://arxiv.org/abs/1506.08230 "Soumith Chintala, Marc'Aurelio Ranzato, Arthur Szlam, Yuandong Tian, Mark Tygert, Wojciech Zaremba")
 * [No Regret Bound for Extreme Bandits](http://arxiv.org/abs/1508.02933 "Robert Nishihara, David Lopez-Paz, Léon Bottou")
 * [Accelerating Stochastic Gradient Descent via Online Learning to Sample](http://arxiv.org/abs/1506.09016 "Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon")
+* [Deeply-Supervised Nets](http://arxiv.org/abs/1409.5185 "Chen-Yu Lee, Saining Xie, Patrick Gallagher, Zhengyou Zhang, Zhuowen Tu")
 * [Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424 "Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra")
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
 * [Highway Networks](http://arxiv.org/abs/1505.00387 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
@@ -253,6 +257,7 @@
   * [Efficient batchwise dropout training using submatrices](http://arxiv.org/abs/1502.02478 "Ben Graham, Jeremy Reizenstein, Leigh Robinson")
   * [Dropout Training for Support Vector Machines](http://arxiv.org/abs/1404.4171 "Ning Chen, Jun Zhu, Jianfei Chen, Bo Zhang")
   * [Dropout as data augmentation](http://arxiv.org/abs/1506.08700 "Kishore Konda, Xavier Bouthillier, Roland Memisevic, Pascal Vincent")
+  * [Partitioning Large Scale Deep Belief Networks Using Dropout](http://arxiv.org/abs/1508.07096 "Yanping Huang, Sai Zhang")
 * [Regularization of Neural Networks using DropConnect](http://jmlr.org/proceedings/papers/v28/wan13.html "Li Wan, Matthew Zeiler, Sixin Zhang, Yann Le Cun, Rob Fergus")
 * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531 "Geoffrey Hinton, Oriol Vinyals, Jeff Dean")
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
@@ -268,6 +273,8 @@
 * [Gradient Estimation Using Stochastic Computation Graphs](http://arxiv.org/abs/1506.05254 "John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel")
 * [Equilibrated adaptive learning rates for non-convex optimization](http://arxiv.org/abs/1502.04390 "Yann N. Dauphin, Harm de Vries, Yoshua Bengio")
 * [Path-SGD: Path-Normalized Optimization in Deep Neural Networks](http://arxiv.org/abs/1506.02617 "Behnam Neyshabur, Ruslan Salakhutdinov, Nathan Srebro")
+* [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf "James Martens")
+* [On the importance of initialization and momentum in deep learning](http://jmlr.org/proceedings/papers/v28/sutskever13.pdf "Ilya Sutskever, James Martens, George Dahl, Geoffrey Hinton")
 * [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.magicbroom.info/Papers/DuchiHaSi10.pdf "John Duchi, Elad Hazan, Yoram Singer")
 * [ADADELTA: An Adaptive Learning Rate Method](http://arxiv.org/abs/1212.5701 "Matthew D. Zeiler")
 * [ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient](http://arxiv.org/abs/1412.7419 "Caglar Gulcehre, Yoshua Bengio")
