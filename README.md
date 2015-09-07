@@ -111,6 +111,7 @@
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
 * [Real-time Hebbian Learning from Autoencoder Features for Control Tasks](http://mitpress.mit.edu/sites/default/files/titles/content/alife14/ch034.html "Justin K. Pugh, Andrea Soltoggio, Kenneth O. Stanley")
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
+* [Towards universal neural nets: Gibbs machines and ACE](http://arxiv.org/abs/1508.06585 "Galin Georgiev")
 
 ## Restricted Boltzmann Machines
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
