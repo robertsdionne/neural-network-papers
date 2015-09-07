@@ -200,6 +200,7 @@
 ## Numerical Precision
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
+* [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
 
 ## Computational Creativity
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
