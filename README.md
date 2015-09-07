@@ -18,9 +18,10 @@
 15. [Training Innovations](#training-innovations)
 16. [Numerical Optimization](#numerical-optimization)
 17. [Numerical Precision](#numerical-precision)
-18. [Cryptography](#cryptography)
-19. [Distributed Computing](#distributed-computing)
-20. [Clustering](#clustering)
+18. [Computational Creativity](#computational-creativity)
+19. [Cryptography](#cryptography)
+20. [Distributed Computing](#distributed-computing)
+21. [Clustering](#clustering)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -188,6 +189,13 @@
 ## Numerical Precision
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
+
+## Computational Creativity
+* [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
+  * [DeepDream - a code example for visualizing Neural Networks](http://googleresearch.blogspot.com/2015/07/deepdream-code-example-for-visualizing.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
+* [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576 "Leon A. Gatys, Alexander S. Ecker, Matthias Bethge")
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "Andrej Karpathy")
+* [GRUV: Algorithmic Music Generation using Recurrent Neural Networks](http://cs224d.stanford.edu/reports/NayebiAran.pdf "Aran Nayebi, Matt Vitelli")
 
 ## Cryptography
 * [Crypto-Nets: Neural Networks over Encrypted Data](http://arxiv.org/abs/1412.6181 "Pengtao Xie, Misha Bilenko, Tom Finley, Ran Gilad-Bachrach, Kristin Lauter, Michael Naehrig")
