@@ -62,13 +62,17 @@
 ## Natural Language Processing
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
 * [Language Models for Image Captioning: The Quirks and What Works](http://arxiv.org/abs/1505.01809 "Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell")
+* [Zero-Shot Learning Through Cross-Modal Transfer](http://arxiv.org/abs/1301.3666 "Richard Socher, Milind Ganjoo, Hamsa Sridhar, Osbert Bastani, Christopher D. Manning, Andrew Y. Ng")
 
 ### Word Vectors
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
+* [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/glove.pdf "Jeffrey Pennington, Richard Socher, Christopher D. Manning")
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
 * [Inverted indexing for cross-lingual NLP](http://cst.dk/anders/inverted.pdf "Anders Søgaard, Željko Agić, Héctor Martínez Alonso, Barbara Plank, Bernd Bohnet, Anders Johannsen")
 * [Random walks on discourse spaces: a new generative language model with applications to semantic word embeddings](http://arxiv.org/abs/1502.03520 "Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski")
+* [Breaking Sticks and Ambiguities with Adaptive Skip-gram](http://arxiv.org/abs/1502.07257 "Sergey Bartunov, Dmitry Kondrashkin, Anton Osokin, Dmitry Vetrov")
+* [Language Recognition using Random Indexing](http://arxiv.org/abs/1412.7026 "Aditya Joshi, Johan Halseth, Pentti Kanerva")
 
 ### Sentence and Paragraph Vectors
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
@@ -99,6 +103,7 @@
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
 * [VQA: Visual Question Answering](http://arxiv.org/abs/1505.00468 "Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh")
 * [Question Answering with Subgraph Embeddings](https://research.facebook.com/publications/1473550739586509/question-answering-with-subgraph-embeddings/ "Antoine Bordes, Sumit Chopra, Jason Weston")
+* [Hierarchical Neural Network Generative Models for Movie Dialogues](http://arxiv.org/abs/1507.04808v1 "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau")
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
@@ -131,6 +136,8 @@
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832 "Florian Schroff, Dmitry Kalenichenko, James Philbin")
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/ "Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf")
 * [Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network](http://arxiv.org/abs/1504.04658 "Andrew J.R. Simpson, Gerard Roma, Mark D. Plumbley")
+* [3D ConvNets with Optical Flow Based Regularization](http://cs231n.stanford.edu/reports/kjchavez_final.pdf "Kevin Chavez")
+* [DeepPose: Human Pose Estimation via Deep Neural Networks](http://arxiv.org/abs/1312.4659 "Alexander Toshev, Christian Szegedy")
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv.org/abs/1502.01852 "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun")
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
@@ -168,7 +175,9 @@
 ## Autoencoders
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
 * [Analyzing noise in autoencoders and deep networks](http://arxiv.org/abs/1406.1831 "Ben Poole, Jascha Sohl-Dickstein, Surya Ganguli")
+* [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle")
 * [k-Sparse Autoencoders](http://arxiv.org/abs/1312.5663 "Alireza Makhzani, Brendan Frey")
+* [Zero-bias autoencoders and the benefits of co-adapting features](http://arxiv.org/abs/1402.3337 "Kishore Konda, Roland Memisevic, David Krueger")
 * [Generalized Denoising Auto-Encoders as Generative Models](http://arxiv.org/abs/1305.6663 "Yoshua Bengio, Li Yao, Guillaume Alain, Pascal Vincent")
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
@@ -204,6 +213,7 @@
 * [Semi-Supervised Learning with Ladder Network](http://arxiv.org/abs/1507.02672 "Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko")
   * [Denoising autoencoder with modulated lateral connections learns invariant representations of natural images](http://arxiv.org/abs/1412.7210 "Antti Rasmus, Tapani Raiko, Harri Valpola")
   * [Lateral Connections in Denoising Autoencoders Support Supervised Learning](http://arxiv.org/abs/1504.08215 "Antti Rasmus, Harri Valpola, Tapani Raiko")
+* [Semi-Supervised Learning with Deep Generative Models](http://arxiv.org/abs/1406.5298 "Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling")
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
 * [An Analysis of Single-Layer Networks in Unsupervised Feature Learning](http://ai.stanford.edu/~ang/papers/nipsdlufl10-AnalysisSingleLayerUnsupervisedFeatureLearning.pdf "Adam Coates, Honglak Lee, Andrew Y. Ng")
 * [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585 "Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli")
@@ -258,6 +268,7 @@
   * [Dropout Training for Support Vector Machines](http://arxiv.org/abs/1404.4171 "Ning Chen, Jun Zhu, Jianfei Chen, Bo Zhang")
   * [Dropout as data augmentation](http://arxiv.org/abs/1506.08700 "Kishore Konda, Xavier Bouthillier, Roland Memisevic, Pascal Vincent")
   * [Partitioning Large Scale Deep Belief Networks Using Dropout](http://arxiv.org/abs/1508.07096 "Yanping Huang, Sai Zhang")
+* [Maxout Networks](http://arxiv.org/abs/1302.4389 "Ian J. Goodfellow, David Warde-Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio")
 * [Regularization of Neural Networks using DropConnect](http://jmlr.org/proceedings/papers/v28/wan13.html "Li Wan, Matthew Zeiler, Sixin Zhang, Yann Le Cun, Rob Fergus")
 * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531 "Geoffrey Hinton, Oriol Vinyals, Jeff Dean")
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
