@@ -174,6 +174,9 @@
 * [Index-learning of unsupervised low dimensional embedding](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/graham/indexlearning.pdf "Ben Graham")
 * [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang")
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
+* [Semi-Supervised Learning with Ladder Network](http://arxiv.org/abs/1507.02672 "Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko")
+  * [Denoising autoencoder with modulated lateral connections learns invariant representations of natural images](http://arxiv.org/abs/1412.7210 "Antti Rasmus, Tapani Raiko, Harri Valpola")
+  * [Lateral Connections in Denoising Autoencoders Support Supervised Learning](http://arxiv.org/abs/1504.08215 "Antti Rasmus, Harri Valpola, Tapani Raiko")
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
 
 ## Reinforcement Learning
