@@ -18,10 +18,11 @@
 15. [Training Innovations](#training-innovations)
 16. [Numerical Optimization](#numerical-optimization)
 17. [Numerical Precision](#numerical-precision)
-18. [Computational Creativity](#computational-creativity)
-19. [Cryptography](#cryptography)
-20. [Distributed Computing](#distributed-computing)
-21. [Clustering](#clustering)
+18. [Cognitive Architectures](#cognitive-architectures)
+19. [Computational Creativity](#computational-creativity)
+20. [Cryptography](#cryptography)
+21. [Distributed Computing](#distributed-computing)
+22. [Clustering](#clustering)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -237,6 +238,9 @@
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
 * [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
+
+## Cognitive Architectures
+* [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith")
 
 ## Computational Creativity
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
