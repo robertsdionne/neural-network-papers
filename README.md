@@ -13,6 +13,7 @@
 10. [Biologically Plausible Learning](#biologically-plausible-learning)
 11. [Unsupervised Learning](#unsupervised-learning)
 12. [Reinforcement Learning](#reinforcement-learning)
+13. [Theory](#theory)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -122,3 +123,15 @@
 * [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis")
 * [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602 "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller")
 * [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
+
+## Theory
+* [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
+* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
+* [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233 "Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun")
+* [On the Number of Linear Regions of Deep Neural Networks](http://arxiv.org/abs/1402.1869 "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, Yoshua Bengio")
+* [An exact mapping between the Variational Renormalization Group and Deep Learning](http://arxiv.org/abs/1410.3831 "Pankaj Mehta, David J. Schwab")
+* [Why does Deep Learning work? - A perspective from Group Theory](http://arxiv.org/abs/1412.6621 "Arnab Paul, Suresh Venkatasubramanian")
+* [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](http://arxiv.org/abs/1312.6120 "Andrew M. Saxe, James L. McClelland, Surya Ganguli")
+* [On the Stability of Deep Networks](http://arxiv.org/abs/1412.5896 "Raja Giryes, Guillermo Sapiro, Alex M. Bronstein")
+* [Over-Sampling in a Deep Neural Network](http://arxiv.org/abs/1502.03648 "Andrew J.R. Simpson")
+* [Causal Entropic Forces](http://www.alexwg.org/publications/PhysRevLett_110-168702.pdf "A. D. Wissner-Gross, C. E. Freer")
