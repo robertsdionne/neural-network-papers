@@ -207,6 +207,7 @@
 * [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576 "Leon A. Gatys, Alexander S. Ecker, Matthias Bethge")
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "Andrej Karpathy")
 * [GRUV: Algorithmic Music Generation using Recurrent Neural Networks](http://cs224d.stanford.edu/reports/NayebiAran.pdf "Aran Nayebi, Matt Vitelli")
+* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/ "Daniel Johnson")
 
 ## Cryptography
 * [Crypto-Nets: Neural Networks over Encrypted Data](http://arxiv.org/abs/1412.6181 "Pengtao Xie, Misha Bilenko, Tom Finley, Ran Gilad-Bachrach, Kristin Lauter, Michael Naehrig")
