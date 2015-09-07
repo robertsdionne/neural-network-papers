@@ -102,6 +102,7 @@
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
+* [Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv.org/abs/1503.01838 "Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu")
 
 ### Recurrent
 * [Long Short-Term Memory Over Tree Structures](http://arxiv.org/abs/1503.04881 "Xiaodan Zhu, Parinaz Sobhani, Hongyu Guo")
@@ -114,6 +115,7 @@
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
 * [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
 * [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox")
+* [Deep Convolutional Inverse Graphics Network](http://arxiv.org/abs/1503.03167 "Tejas D. Kulkarni, Will Whitney, Pushmeet Kohli, Joshua B. Tenenbaum")
 * [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751 "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus")
 * [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389 "Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell")
 * [A Machine Learning Approach for Filtering Monte Carlo Noise](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2015_LBF "Nima Khademi Kalantari, Steve Bako, Pradeep Sen")
@@ -131,6 +133,7 @@
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
 * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/abs/1312.6034 "Karen Simonyan, Andrea Vedaldi, Andrew Zisserman")
+* [Invariant backpropagation: how to train a transformation-invariant neural network](http://arxiv.org/abs/1502.04434 "Sergey Demyanov, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie")
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
 
@@ -151,6 +154,7 @@
 * [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://arxiv.org/abs/1412.4729 "Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko")
 * [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681 "Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov")
 * [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078 "Andrej Karpathy, Justin Johnson, Fei-Fei Li")
+* [Advances in Optimizing Recurrent Networks](http://arxiv.org/abs/1212.0901 "Yoshua Bengio, Nicolas Boulanger-Lewandowski, Razvan Pascanu")
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 
 ## Convolutional Recurrent Neural Networks
@@ -168,6 +172,7 @@
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
 * [Towards universal neural nets: Gibbs machines and ACE](http://arxiv.org/abs/1508.06585 "Galin Georgiev")
 * [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf "G. E. Hinton, A. Krizhevsky, S. D. Wang")
+* [Discovering Hidden Factors of Variation in Deep Networks](http://arxiv.org/abs/1412.6583 "Brian Cheung, Jesse A. Livezey, Arjun K. Bansal, Bruno A. Olshausen")
 
 ## Restricted Boltzmann Machines
 * [The wake-sleep algorithm for unsupervised neural networks](https://www.cs.toronto.edu/~hinton/absps/ws.pdf "Geoffrey E Hinton, Peter Dayan, Brendan J Frey, Radford M Neals")
@@ -204,16 +209,18 @@
 * [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
 
 ## Theory
-* [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
-* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
-* [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233 "Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun")
 * [On the Number of Linear Regions of Deep Neural Networks](http://arxiv.org/abs/1402.1869 "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, Yoshua Bengio")
+* [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
+  * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
+* [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233 "Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun")
+* [Qualitatively characterizing neural network optimization problems](http://arxiv.org/abs/1412.6544 "Ian J. Goodfellow, Oriol Vinyals, Andrew M. Saxe")
 * [An exact mapping between the Variational Renormalization Group and Deep Learning](http://arxiv.org/abs/1410.3831 "Pankaj Mehta, David J. Schwab")
 * [Why does Deep Learning work? - A perspective from Group Theory](http://arxiv.org/abs/1412.6621 "Arnab Paul, Suresh Venkatasubramanian")
 * [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](http://arxiv.org/abs/1312.6120 "Andrew M. Saxe, James L. McClelland, Surya Ganguli")
 * [On the Stability of Deep Networks](http://arxiv.org/abs/1412.5896 "Raja Giryes, Guillermo Sapiro, Alex M. Bronstein")
 * [Over-Sampling in a Deep Neural Network](http://arxiv.org/abs/1502.03648 "Andrew J.R. Simpson")
 * [A theoretical argument for complex-valued convolutional networks](http://arxiv.org/abs/1503.03438 "Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, Mark Tygert")
+* [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641 "Ankit B. Patel, Tan Nguyen, Richard G. Baraniuk")
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/ "Christopher Olah")
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/ "Christopher Olah")
 * [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/ "Christopher Olah")
@@ -230,6 +237,7 @@
 
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
+* [Empirical Evaluation of Rectified Activations in Convolutional Network](http://arxiv.org/abs/1505.00853 "Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
 * [Scale-invariant learning and convolutional networks](http://arxiv.org/abs/1506.08230 "Soumith Chintala, Marc'Aurelio Ranzato, Arthur Szlam, Yuandong Tian, Mark Tygert, Wojciech Zaremba")
 * [No Regret Bound for Extreme Bandits](http://arxiv.org/abs/1508.02933 "Robert Nishihara, David Lopez-Paz, Léon Bottou")
@@ -246,7 +254,8 @@
 * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531 "Geoffrey Hinton, Oriol Vinyals, Jeff Dean")
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
 * [Domain-Adversarial Neural Networks](http://arxiv.org/abs/1412.4446 "Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand")
-* [Compressing Neural Networks with the Hashing Trick](http://jmlr.org/proceedings/papers/v37/chenc15.html "Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, Yixin Chen")
+* [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
+* [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](http://arxiv.org/abs/1502.05336 "José Miguel Hernández-Lobato, Ryan P. Adams")
 
 ## Numerical Optimization
 * [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
