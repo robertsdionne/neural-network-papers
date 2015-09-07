@@ -12,6 +12,7 @@
 9. [Restricted Boltzmann Machines](#restricted-boltzmann-machines)
 10. [Biologically Plausible Learning](#biologically-plausible-learning)
 11. [Unsupervised Learning](#unsupervised-learning)
+12. [Reinforcement Learning](#reinforcement-learning)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -116,3 +117,8 @@
 * [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang")
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
+
+## Reinforcement Learning
+* [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis")
+* [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602 "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller")
+* [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
