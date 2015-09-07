@@ -53,26 +53,37 @@
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
 
 ## Natural Language Processing
-* [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
-* [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
-* [Inverted indexing for cross-lingual NLP](http://cst.dk/anders/inverted.pdf "Anders Søgaard, Željko Agić, Héctor Martínez Alonso, Barbara Plank, Bernd Bohnet, Anders Johannsen")
-* [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
-* [Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs](http://arxiv.org/abs/1508.00657 "Miguel Ballesteros, Chris Dyer, Noah A. Smith")
-* [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush")
-* [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler")
-* [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
-* [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
-* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
-* [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
-* [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
-* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom")
-* [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
 * [Long Short-Term Memory Over Tree Structures](http://arxiv.org/abs/1503.04881 "Xiaodan Zhu, Parinaz Sobhani, Hongyu Guo")
 * [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075 "Kai Sheng Tai, Richard Socher, Christopher D. Manning")
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
+
+### Word Vectors
+* [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
+* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
+* [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
+* [Inverted indexing for cross-lingual NLP](http://cst.dk/anders/inverted.pdf "Anders Søgaard, Željko Agić, Héctor Martínez Alonso, Barbara Plank, Bernd Bohnet, Anders Johannsen")
+
+### Sentence and Paragraph Vectors
+* [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
+* [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
+* [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler")
+
+### Character Vectors
+* [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
+* [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush")
+* [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
+* [Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs](http://arxiv.org/abs/1508.00657 "Miguel Ballesteros, Chris Dyer, Noah A. Smith")
+
+### Sequence-to-Sequence Learning
+* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
+* [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
+* [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
+
+### Question Answering, and Conversing
+* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom")
+* [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
-* [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
-* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
 
 ## Convolutional Neural Networks
 * [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025 "Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu")
@@ -109,7 +120,6 @@
   * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
 * [Learning Longer Memory in Recurrent Neural Networks](http://arxiv.org/abs/1412.7753 "Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu, Marc'Aurelio Ranzato")
 * [A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](http://arxiv.org/abs/1504.00941 "Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton")
-* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
 * [A Clockwork RNN](http://arxiv.org/abs/1402.3511 "Jan Koutník, Klaus Greff, Faustino Gomez, Jürgen Schmidhuber")
 * [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623 "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra")
 * [Gated Feedback Recurrent Neural Networks](http://arxiv.org/abs/1502.02367 "Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
