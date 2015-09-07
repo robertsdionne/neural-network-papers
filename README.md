@@ -92,6 +92,7 @@
 * [Rotation-invariant convolutional neural networks for galaxy morphology prediction](http://arxiv.org/abs/1503.07077 "Sander Dieleman, Kyle W. Willett, Joni Dambre")
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
+* [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
 
 ## Recurrent Neural Networks
