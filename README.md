@@ -130,6 +130,9 @@
 * [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf "G. E. Hinton, A. Krizhevsky, S. D. Wang")
 
 ## Restricted Boltzmann Machines
+* [The wake-sleep algorithm for unsupervised neural networks](https://www.cs.toronto.edu/~hinton/absps/ws.pdf "Geoffrey E Hinton, Peter Dayan, Brendan J Frey, Radford M Neals")
+  * [A simple algorithm that discovers efficient perceptual codes](https://www.cs.toronto.edu/~hinton/absps/percepts.pdf "Brendan J. Frey, Peter Dayan, Geoffrey E. Hinton")
+  * [Reweighted Wake-Sleep](http://arxiv.org/abs/1406.2751 "Jörg Bornschein, Yoshua Bengio")
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
 * [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
 * [Quantum Inspired Training for Boltzmann Machines](http://arxiv.org/abs/1507.02642 "Nathan Wiebe, Ashish Kapoor, Christopher Granade, Krysta M Svore")
