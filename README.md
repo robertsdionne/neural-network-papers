@@ -15,6 +15,7 @@
 12. [Reinforcement Learning](#reinforcement-learning)
 13. [Theory](#theory)
 14. [Quantum Computing](#quantum-computing)
+15. [Training Innovations](#training-innovations)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -142,3 +143,19 @@
 * [Quantum algorithms for supervised and unsupervised machine learning](http://arxiv.org/abs/1307.0411 "Seth Lloyd, Masoud Mohseni, Patrick Rebentrost")
 * [Entanglement-Based Machine Learning on a Quantum Computer](http://arxiv.org/abs/1409.7770 "X.-D. Cai, D. Wu, Z.-E. Su, M.-C. Chen, X.-L. Wang, L. Li, N.-L. Liu, C.-Y. Lu, J.-W. Pan")
 * [A quantum speedup in machine learning: Finding a N-bit Boolean function for a classification](http://arxiv.org/abs/1303.6055 "Seokwon Yoo, Jeongho Bang, Changhyoup Lee, Jinhyoung Lee")
+
+## Training Innovations
+* [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
+* [Accelerating Stochastic Gradient Descent via Online Learning to Sample](http://arxiv.org/abs/1506.09016 "Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon")
+* [Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424 "Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra")
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
+* [Highway Networks](http://arxiv.org/abs/1505.00387 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
+  * [Training Very Deep Networks](http://arxiv.org/abs/1507.06228 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
+* [Improving neural networks by preventing co-adaptation of feature detectors](http://arxiv.org/abs/1207.0580 "Geoffrey E. Hinton, Nitish Srivastava, Alex Krizhevsky, Ilya Sutskever, Ruslan R. Salakhutdinov")
+  * [Efficient batchwise dropout training using submatrices](http://arxiv.org/abs/1502.02478 "Ben Graham, Jeremy Reizenstein, Leigh Robinson")
+  * [Dropout Training for Support Vector Machines](http://arxiv.org/abs/1404.4171 "Ning Chen, Jun Zhu, Jianfei Chen, Bo Zhang")
+* [Regularization of Neural Networks using DropConnect](http://jmlr.org/proceedings/papers/v28/wan13.html "Li Wan, Matthew Zeiler, Sixin Zhang, Yann Le Cun, Rob Fergus")
+* [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531 "Geoffrey Hinton, Oriol Vinyals, Jeff Dean")
+* [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
+* [Domain-Adversarial Neural Networks](http://arxiv.org/abs/1412.4446 "Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand")
+* [Compressing Neural Networks with the Hashing Trick](http://jmlr.org/proceedings/papers/v37/chenc15.html "Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, Yixin Chen")
