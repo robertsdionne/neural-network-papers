@@ -114,6 +114,8 @@
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 * [A Recurrent Latent Variable Model for Sequential Data](http://arxiv.org/abs/1506.02216 "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio")
 * [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](http://arxiv.org/abs/1505.00393 "Francesco Visin, Kyle Kastner, Kyunghyun Cho, Matteo Matteucci, Aaron Courville, Yoshua Bengio")
+* [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://arxiv.org/abs/1412.4729 "Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko")
+* [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681 "Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov")
 
 ## Autoencoders
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
