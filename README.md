@@ -19,14 +19,14 @@
 16. [Quantum Computing](#quantum-computing)
 17. [Training Innovations](#training-innovations)
 18. [Numerical Optimization](#numerical-optimization)
-19. [Numerical Precision](#numerical-precision)
+19. [Motion Planning](#motion-planning)
+20. [Numerical Precision](#numerical-precision)
 21. [Hardware](#hardware)
 22. [Cognitive Architectures](#cognitive-architectures)
-23. [Motion Planning](#motion-planning)
-24. [Computational Creativity](#computational-creativity)
-25. [Cryptography](#cryptography)
-26. [Distributed Computing](#distributed-computing)
-27. [Clustering](#clustering)
+23. [Computational Creativity](#computational-creativity)
+24. [Cryptography](#cryptography)
+25. [Distributed Computing](#distributed-computing)
+26. [Clustering](#clustering)
 
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
@@ -298,6 +298,13 @@
 * [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114 "Yuxin Chen, Emmanuel J. Candes")
 * [Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767 "Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind")
 
+## Motion Planning
+* [Continuous Character Control with Low-Dimensional Embeddings](https://graphics.stanford.edu/projects/ccclde/ "Sergey Levine,	Jack M. Wang,	Alexis Haraux,	Zoran Popović,	Vladlen Koltun")
+* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
+* [Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186 "Sertac Karaman, Emilio Frazzoli") ([youtu.be/r34XWEZ41HA](http://youtu.be/r34XWEZ41HA))
+  * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
+  * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4))
+
 ## Numerical Precision
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
@@ -310,13 +317,6 @@
 ## Cognitive Architectures
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
 * [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith")
-
-## Motion Planning
-* [Continuous Character Control with Low-Dimensional Embeddings](https://graphics.stanford.edu/projects/ccclde/ "Sergey Levine,	Jack M. Wang,	Alexis Haraux,	Zoran Popović,	Vladlen Koltun")
-* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
-* [Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186 "Sertac Karaman, Emilio Frazzoli") ([youtu.be/r34XWEZ41HA](http://youtu.be/r34XWEZ41HA))
-  * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
-  * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4))
 
 ## Computational Creativity
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
