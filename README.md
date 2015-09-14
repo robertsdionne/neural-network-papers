@@ -309,6 +309,7 @@
 * [ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient](http://arxiv.org/abs/1412.7419 "Caglar Gulcehre, Yoshua Bengio")
 * [Adam: A Method for Stochastic Optimization](http://arxiv.org/abs/1412.6980 "Diederik Kingma, Jimmy Ba")
 * [A sufficient and necessary condition for global optimization](http://www.sciencedirect.com/science/article/pii/S0893965909002869 "Dong-Hua Wu, Wu-Yang Yu, Quan Zheng")
+  * [A Level-Value Estimation Method and Stochastic Implementation for Global Optimization](http://link.springer.com/article/10.1007/s10957-012-0151-1 "Zheng Peng, Donghua Wu, Quan Zheng")
 * [Unit Tests for Stochastic Optimization](http://arxiv.org/abs/1312.6055 "Tom Schaul, Ioannis Antonoglou, David Silver")
 * [A* Sampling](http://arxiv.org/abs/1411.0030 "Chris J. Maddison, Daniel Tarlow, Tom Minka")
 * [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114 "Yuxin Chen, Emmanuel J. Candes")
