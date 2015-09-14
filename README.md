@@ -247,6 +247,7 @@
   * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
 * [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233 "Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun")
 * [Qualitatively characterizing neural network optimization problems](http://arxiv.org/abs/1412.6544 "Ian J. Goodfellow, Oriol Vinyals, Andrew M. Saxe")
+* [An average-case depth hierarchy theorem for Boolean circuits](http://arxiv.org/abs/1504.03398 "Benjamin Rossman, Rocco A. Servedio, Li-Yang Tan")
 * [An exact mapping between the Variational Renormalization Group and Deep Learning](http://arxiv.org/abs/1410.3831 "Pankaj Mehta, David J. Schwab")
 * [Why does Deep Learning work? - A perspective from Group Theory](http://arxiv.org/abs/1412.6621 "Arnab Paul, Suresh Venkatasubramanian")
 * [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](http://arxiv.org/abs/1312.6120 "Andrew M. Saxe, James L. McClelland, Surya Ganguli")
