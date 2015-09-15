@@ -77,6 +77,9 @@
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
 * [Learning to Execute](http://arxiv.org/abs/1410.4615 "Wojciech Zaremba, Ilya Sutskever")
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
+* [Optimal Ordered Problem Solver](http://people.idsia.ch/~juergen/oops.html "Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/oopsmlj.pdf)
+  * [The Fastest and Shortest Algorithm for All Well-Defined Problems](http://people.idsia.ch/~juergen/optimalsearch.html "Marcus Hutter") (ftp://ftp.idsia.ch/pub/techrep/IDSIA-16-00.ps.gz)
+  * [The Speed Prior: A New Simplicity Measure Yielding Near-Optimal Computable Predictions](http://people.idsia.ch/~juergen/speedprior.html "Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/coltspeed.pdf)
 
 ## Natural Language Processing
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
