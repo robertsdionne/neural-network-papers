@@ -20,15 +20,16 @@
 17. [Theory](#theory)
 18. [Quantum Computing](#quantum-computing)
 19. [Training Innovations](#training-innovations)
-20. [Numerical Optimization](#numerical-optimization)
-21. [Motion Planning](#motion-planning)
-22. [Numerical Precision](#numerical-precision)
-23. [Hardware](#hardware)
-24. [Cognitive Architectures](#cognitive-architectures)
-25. [Computational Creativity](#computational-creativity)
-26. [Cryptography](#cryptography)
-27. [Distributed Computing](#distributed-computing)
-28. [Clustering](#clustering)
+20. [Parallel Training](#parallel-training)
+21. [Numerical Optimization](#numerical-optimization)
+22. [Motion Planning](#motion-planning)
+23. [Numerical Precision](#numerical-precision)
+24. [Hardware](#hardware)
+25. [Cognitive Architectures](#cognitive-architectures)
+26. [Computational Creativity](#computational-creativity)
+27. [Cryptography](#cryptography)
+28. [Distributed Computing](#distributed-computing)
+29. [Clustering](#clustering)
 
 ## Other Lists
 * [DeepLearning.University – An Annotated Deep Learning Bibliography | Memkite](http://memkite.com/deep-learning-bibliography/ "Amund Tveit")
@@ -317,6 +318,11 @@
 * [Domain-Adversarial Neural Networks](http://arxiv.org/abs/1412.4446 "Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand")
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
 * [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](http://arxiv.org/abs/1502.05336 "José Miguel Hernández-Lobato, Ryan P. Adams")
+
+## Parallel Training
+* [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view "Nikko Strom")
+* [Large Scale Distributed Deep Networks](http://research.google.com/archive/large_deep_networks_nips2012.html "Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Andrew Y. Ng")
+* [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
 
 ## Numerical Optimization
 * [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
