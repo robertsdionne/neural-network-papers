@@ -277,6 +277,7 @@
 * [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641 "Ankit B. Patel, Tan Nguyen, Richard G. Baraniuk")
 * [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163 "Mikael Henaff, Joan Bruna, Yann LeCun")
 * [Learning with Group Invariant Features: A Kernel Perspective](http://arxiv.org/abs/1506.02544 "Youssef Mroueh, Stephen Voinea, Tomaso Poggio")
+* [Randomized algorithms for matrices and data](http://arxiv.org/abs/1104.5557 "Michael W. Mahoney")
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/ "Christopher Olah")
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/ "Christopher Olah")
 * [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/ "Christopher Olah")
