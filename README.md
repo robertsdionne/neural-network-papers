@@ -322,6 +322,7 @@
 
 ## Parallel Training
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view "Nikko Strom")
+* [AdaDelay: Delay Adaptive Distributed Stochastic Convex Optimization](http://arxiv.org/abs/1508.05003 "Suvrit Sra, Adams Wei Yu, Mu Li, Alexander J. Smola")
 * [Large Scale Distributed Deep Networks](http://research.google.com/archive/large_deep_networks_nips2012.html "Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Andrew Y. Ng")
 * [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
 
