@@ -151,6 +151,7 @@
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
 * [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
+* [Deep Learning for Single-View Instance Recognition](http://arxiv.org/abs/1507.08286 "David Held, Sebastian Thrun, Silvio Savarese")
 * [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox")
 * [Deep Convolutional Inverse Graphics Network](http://arxiv.org/abs/1503.03167 "Tejas D. Kulkarni, Will Whitney, Pushmeet Kohli, Joshua B. Tenenbaum")
 * [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751 "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus")
