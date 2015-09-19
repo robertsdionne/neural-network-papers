@@ -108,6 +108,7 @@
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
 * [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
 * [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler")
+* [From Word Embeddings To Document Distances](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf "Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger")
 
 ### Character Vectors
 * [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
