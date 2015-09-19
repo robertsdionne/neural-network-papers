@@ -92,6 +92,7 @@
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
 * [Language Models for Image Captioning: The Quirks and What Works](http://arxiv.org/abs/1505.01809 "Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell")
 * [Zero-Shot Learning Through Cross-Modal Transfer](http://arxiv.org/abs/1301.3666 "Richard Socher, Milind Ganjoo, Hamsa Sridhar, Osbert Bastani, Christopher D. Manning, Andrew Y. Ng")
+* [On Using Very Large Target Vocabulary for Neural Machine Translation](http://arxiv.org/abs/1412.2007 "Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio")
 
 ### Word Vectors
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
@@ -147,6 +148,7 @@
 
 ## Convolutional Neural Networks
 * [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025 "Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu")
+* [SimNets: A Generalization of Convolutional Networks](http://arxiv.org/abs/1410.0781 "Nadav Cohen, Amnon Shashua")
 * [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
@@ -260,6 +262,7 @@
 * [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
 
 ## Theory
+* [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009 "Nadav Cohen, Or Sharir, Amnon Shashua")
 * [On the Number of Linear Regions of Deep Neural Networks](http://arxiv.org/abs/1402.1869 "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, Yoshua Bengio")
 * [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
   * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
@@ -299,6 +302,7 @@
   * [Fast and Guaranteed Tensor Decomposition via Sketching](http://arxiv.org/abs/1506.04448 "Yining Wang, Hsiao-Yu Tung, Alexander Smola, Animashree Anandkumar")
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
   * [Very Large-Scale Singular Value Decomposition Using Tensor Train Networks](http://arxiv.org/abs/1410.6895 "Namgil Lee, Andrzej Cichocki")
+* [Notes on Noise Contrastive Estimation and Negative Sampling](http://arxiv.org/abs/1410.8251 "Chris Dyer")
 * [Learning both Weights and Connections for Efficient Neural Networks](http://arxiv.org/abs/1506.02626 "Song Han, Jeff Pool, John Tran, William J. Dally")
 * [Empirical Evaluation of Rectified Activations in Convolutional Network](http://arxiv.org/abs/1505.00853 "Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
@@ -369,6 +373,7 @@
 ## Hardware
 * [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
 * [AHaH Computing–From Metastable Switches to Attractors to Machine Learning](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085175 "Michael Alexander Nugent, Timothy Wesley Molter")
+* [Finding a roadmap to achieve large neuromorphic hardware systems](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767911/ "Jennifer Hasler, Bo Marr")
 
 ## Cognitive Architectures
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
