@@ -202,6 +202,7 @@
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 
 ## Convolutional Recurrent Neural Networks
+* [Recurrent Spatial Transformer Networks](http://arxiv.org/abs/1509.05329 "Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe, Ole Winther") ([github.com/skaae/recurrent-spatial-transformer-code](https://github.com/skaae/recurrent-spatial-transformer-code))
 * [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/abs/1506.04214 "Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, Wang-chun Woo")
 * [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053 "Kyunghyun Cho, Aaron Courville, Yoshua Bengio")
 
