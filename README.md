@@ -140,6 +140,7 @@
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
 * [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882 "Yoon Kim")
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
+  * [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626 "Xiang Zhang, Junbo Zhao, Yann LeCun")
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
 * [Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv.org/abs/1503.01838 "Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu")
 
