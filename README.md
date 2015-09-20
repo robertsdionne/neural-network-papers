@@ -53,10 +53,16 @@
 * [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698 "Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush")
 * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau")
 * [Every publicly available Reddit comment, for research.](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/ "Stuck_In_the_Matrix")
+* [Europarl: A Parallel Corpus for Statistical Machine Translation](http://www.iccs.inf.ed.ac.uk/~pkoehn/publications/europarl-mtsummit05.pdf "Philipp Koehn") ([www.statmt.org/europarl/](http://www.statmt.org/europarl/))
 
 ## Pretrained Models
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo "Berkeley Vision and Learning Center")
 * [Inception](https://github.com/google/inception "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
+* [word2vec](https://code.google.com/p/word2vec/ "Tomas Mikolov")
+  * [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
+  * [freebase-vectors-skipgram1000.bin.gz](https://docs.google.com/file/d/0B7XkCwpI5KDYaDBDQm1tZGNDRHc/edit?usp=sharing)
+* [GloVe](http://nlp.stanford.edu/projects/glove/ "Jeffrey Pennington, Richard Socher, Christopher D. Manning")
+* [SENNA](http://ronan.collobert.com/senna/ "R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuoglu, P. Kuksa")
 
 ## Programming Frameworks
 * [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093 "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell")
@@ -102,6 +108,8 @@
 ### Word Vectors
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
+  * [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/abs/1310.4546 "Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean")
+  * [Exploiting Similarities among Languages for Machine Translation](http://arxiv.org/abs/1309.4168 "Tomas Mikolov, Quoc V. Le, Ilya Sutskever")
 * [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/glove.pdf "Jeffrey Pennington, Richard Socher, Christopher D. Manning")
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548 "Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio")
 * [Inverted indexing for cross-lingual NLP](http://cst.dk/anders/inverted.pdf "Anders Søgaard, Željko Agić, Héctor Martínez Alonso, Barbara Plank, Bernd Bohnet, Anders Johannsen")
