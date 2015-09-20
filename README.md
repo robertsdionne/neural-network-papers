@@ -392,6 +392,8 @@
 * [Finding a roadmap to achieve large neuromorphic hardware systems](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767911/ "Jennifer Hasler, Bo Marr")
 
 ## Cognitive Architectures
+* [A Large-Scale Model of the Functioning Brain](http://www.sciencemag.org/content/338/6111/1202.full?ijkey=y5vph.jw5AgRQ&keytype=ref&siteid=sci "Chris Eliasmith, Terrence C. Stewart, Xuan Choo, Trevor Bekolay, Travis DeWolf, Yichuan Tang, Daniel Rasmussen")
+  * [How to Build a Brain: A Neural Architecture for Biological Cognition](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545 "Chris Eliasmith")
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
 * [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith")
 
