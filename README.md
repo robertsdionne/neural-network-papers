@@ -125,7 +125,7 @@
 
 ### Character Vectors
 * [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
-* [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush")
+* [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush") ([github.com/yoonkim/lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn))
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
 * [Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs](http://arxiv.org/abs/1508.00657 "Miguel Ballesteros, Chris Dyer, Noah A. Smith")
 
