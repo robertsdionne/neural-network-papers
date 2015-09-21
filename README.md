@@ -164,6 +164,7 @@
 ## Convolutional Neural Networks
 * [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025 "Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu")
 * [SimNets: A Generalization of Convolutional Networks](http://arxiv.org/abs/1410.0781 "Nadav Cohen, Amnon Shashua")
+* [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
 * [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
