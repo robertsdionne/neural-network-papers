@@ -354,6 +354,7 @@
 * [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
   * [Recursive Decomposition for Nonconvex Optimization: Supplementary Material](http://homes.cs.washington.edu/~afriesen/papers/ijcai2015sp.pdf "Abram L. Friesen, Pedro Domingos")
 * [Beating the Perils of Non-Convexity: Guaranteed Training of Neural Networks using Tensor Methods](http://arxiv.org/abs/1506.08473 "Majid Janzamin, Hanie Sedghi, Anima Anandkumar")
+* [Adapting Resilient Propagation for Deep Learning](http://arxiv.org/abs/1509.04612 "Alan Mosca, George D. Magoulas")
 * [Preconditioned Spectral Descent for Deep Learning](http://infoscience.epfl.ch/record/211011/files/nips_spectral.pdf "David Carlson; Edo Collins; Ya-Ping Hsieh; Lawrence Carin; Volkan Cevher")
   * [Preconditioned Spectral Descent for Deep Learning: Supplemental Material](http://infoscience.epfl.ch/record/211011/files/nips_spectral_supplement.pdf "David Carlson; Edo Collins; Ya-Ping Hsieh; Lawrence Carin; Volkan Cevher")
 * [Beyond Convexity: Stochastic Quasi-Convex Optimization](http://arxiv.org/abs/1507.02030 "Elad Hazan, Kfir Y. Levy, Shai Shalev-Shwartz")
