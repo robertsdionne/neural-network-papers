@@ -129,10 +129,12 @@
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
 * [Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs](http://arxiv.org/abs/1508.00657 "Miguel Ballesteros, Chris Dyer, Noah A. Smith")
 
-### Sequence-to-Sequence Learning
-* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
+### Attention Mechanisms
 * [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
 * [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
+
+### Sequence-to-Sequence Learning
+* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
 * [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
 
 ### Language Understanding
