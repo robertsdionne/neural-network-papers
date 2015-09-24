@@ -138,6 +138,7 @@
 * [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
 
 ### Language Understanding
+* [Reasoning about Entailment with Neural Attention](http://arxiv.org/abs/1509.06664 "Tim Rocktäschel, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Phil Blunsom")
 * [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom")
 * [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf "Grégoire Mesnil, Xiaodong He, Li Deng, Yoshua Bengio")
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941 "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay")
