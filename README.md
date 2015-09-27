@@ -319,7 +319,8 @@
 
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
-* [Tensorizing Neural Networks](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
+* [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
+  * [Tensorizing Neural Networks presentation](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
   * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets")
   * [Fast and Guaranteed Tensor Decomposition via Sketching](http://arxiv.org/abs/1506.04448 "Yining Wang, Hsiao-Yu Tung, Alexander Smola, Animashree Anandkumar")
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
