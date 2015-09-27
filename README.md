@@ -288,6 +288,7 @@
 * [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
   * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
 * [The Loss Surfaces of Multilayer Networks](http://arxiv.org/abs/1412.0233 "Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, Yann LeCun")
+* [Statistical mechanics of complex neural systems and high dimensional data](http://arxiv.org/abs/1301.7115 "Madhu Advani, Subhaneil Lahiri, Surya Ganguli")
 * [Qualitatively characterizing neural network optimization problems](http://arxiv.org/abs/1412.6544 "Ian J. Goodfellow, Oriol Vinyals, Andrew M. Saxe")
 * [An average-case depth hierarchy theorem for Boolean circuits](http://arxiv.org/abs/1504.03398 "Benjamin Rossman, Rocco A. Servedio, Li-Yang Tan")
 * [An exact mapping between the Variational Renormalization Group and Deep Learning](http://arxiv.org/abs/1410.3831 "Pankaj Mehta, David J. Schwab")
