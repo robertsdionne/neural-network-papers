@@ -321,6 +321,8 @@
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
+* [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
+* [Learning Compact Convolutional Neural Networks with Nested Dropout](http://arxiv.org/abs/1412.7155 "Chelsea Finn, Lisa Anne Hendricks, Trevor Darrell")
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
 * [Highway Networks](http://arxiv.org/abs/1505.00387 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
   * [Training Very Deep Networks](http://arxiv.org/abs/1507.06228 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
