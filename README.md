@@ -51,6 +51,7 @@
 
 ## Datasets
 * [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698 "Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush") ([fb.ai/babi](http://fb.ai/babi))
+* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom") ([github.com/deepmind/rc-data](https://github.com/deepmind/rc-data))
 * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau") ([cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/))
 * [Every publicly available Reddit comment, for research.](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/ "Stuck_In_the_Matrix")
 * [Europarl: A Parallel Corpus for Statistical Machine Translation](http://www.iccs.inf.ed.ac.uk/~pkoehn/publications/europarl-mtsummit05.pdf "Philipp Koehn") ([www.statmt.org/europarl/](http://www.statmt.org/europarl/))
@@ -140,7 +141,6 @@
 
 ### Language Understanding
 * [Reasoning about Entailment with Neural Attention](http://arxiv.org/abs/1509.06664 "Tim Rocktäschel, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Phil Blunsom")
-* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340 "Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom")
 * [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf "Grégoire Mesnil, Xiaodong He, Li Deng, Yoshua Bengio")
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941 "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay")
 
