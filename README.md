@@ -44,6 +44,7 @@
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828 "Juergen Schmidhuber")
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf "Yoav Goldberg")
 
 ## Books
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/ "Yoshua Bengio, Ian J. Goodfellow, Aaron Courville")
