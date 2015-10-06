@@ -139,6 +139,7 @@
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/abs/1406.1078 "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")
 * [Neural Transformation Machine: A New Architecture for Sequence-to-Sequence Learning](http://arxiv.org/abs/1506.06442 "Fandong Meng, Zhengdong Lu, Zhaopeng Tu, Hang Li, Qun Liu")
+* [On Using Monolingual Corpora in Neural Machine Translation](http://arxiv.org/abs/1503.03535 "Caglar Gulcehre, Orhan Firat, Kelvin Xu, Kyunghyun Cho, Loic Barrault, Huei-Chi Lin, Fethi Bougares, Holger Schwenk, Yoshua Bengio")
 
 ### Language Understanding
 * [Reasoning about Entailment with Neural Attention](http://arxiv.org/abs/1509.06664 "Tim Rocktäschel, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Phil Blunsom")
@@ -161,6 +162,7 @@
   * [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626 "Xiang Zhang, Junbo Zhao, Yann LeCun")
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
 * [Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv.org/abs/1503.01838 "Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu")
+* [Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling](http://arxiv.org/abs/1506.07650 "Kun Xu, Yansong Feng, Songfang Huang, Dongyan Zhao")
 
 ### Recurrent
 * [Long Short-Term Memory Over Tree Structures](http://arxiv.org/abs/1503.04881 "Xiaodan Zhu, Parinaz Sobhani, Hongyu Guo")
