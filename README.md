@@ -173,7 +173,7 @@
 ## Convolutional Neural Networks
 * [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025 "Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu")
 * [SimNets: A Generalization of Convolutional Networks](http://arxiv.org/abs/1410.0781 "Nadav Cohen, Amnon Shashua")
-* [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
+* [Fast Algorithms for Convolutional Neural Networks](http://arxiv.org/abs/1509.09308 "Andrew Lavin")
 * [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
@@ -351,12 +351,12 @@
 ### Weight Compression
 * [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
   * [Tensorizing Neural Networks presentation](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
-  * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets")
-  * [Fast and Guaranteed Tensor Decomposition via Sketching](http://arxiv.org/abs/1506.04448 "Yining Wang, Hsiao-Yu Tung, Alexander Smola, Animashree Anandkumar")
+  * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28))
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
-  * [Very Large-Scale Singular Value Decomposition Using Tensor Train Networks](http://arxiv.org/abs/1410.6895 "Namgil Lee, Andrzej Cichocki")
+* [Structured Transforms for Small-Footprint Deep Learning](http://arxiv.org/abs/1510.01722 "Vikas Sindhwani, Tara N. Sainath, Sanjiv Kumar")
 * [Learning both Weights and Connections for Efficient Neural Networks](http://arxiv.org/abs/1506.02626 "Song Han, Jeff Pool, John Tran, William J. Dally")
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
+* [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
 
 ## Parallel Training
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view "Nikko Strom")
