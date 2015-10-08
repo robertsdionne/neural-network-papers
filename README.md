@@ -40,6 +40,7 @@
 * [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn "Jiwon Kim")
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning "Christos Christofidis")
 * [Deep learning Reading List](http://jmozah.github.io/links/ "J Mohamed Zahoor")
+* [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a "Paul Dixon") ([github.com/edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing))
 * [CS089/CS189 | Deep Learning | Spring 2015](http://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html "Lorenzo Torresani")
 
 ## Surveys
