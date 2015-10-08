@@ -107,6 +107,7 @@
 * [Language Models for Image Captioning: The Quirks and What Works](http://arxiv.org/abs/1505.01809 "Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell")
 * [Zero-Shot Learning Through Cross-Modal Transfer](http://arxiv.org/abs/1301.3666 "Richard Socher, Milind Ganjoo, Hamsa Sridhar, Osbert Bastani, Christopher D. Manning, Andrew Y. Ng")
 * [On Using Very Large Target Vocabulary for Neural Machine Translation](http://arxiv.org/abs/1412.2007 "Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio")
+* [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
@@ -330,6 +331,7 @@
 * [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
 * [Learning Compact Convolutional Neural Networks with Nested Dropout](http://arxiv.org/abs/1412.7155 "Chelsea Finn, Lisa Anne Hendricks, Trevor Darrell")
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
+  * [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378 "César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio")
 * [Highway Networks](http://arxiv.org/abs/1505.00387 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
   * [Training Very Deep Networks](http://arxiv.org/abs/1507.06228 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
@@ -364,6 +366,7 @@
 * [Learning both Weights and Connections for Efficient Neural Networks](http://arxiv.org/abs/1506.02626 "Song Han, Jeff Pool, John Tran, William J. Dally")
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
 * [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
+* [Predicting Parameters in Deep Learning](http://arxiv.org/abs/1306.0543 "Misha Denil, Babak Shakibi, Laurent Dinh, Marc'Aurelio Ranzato, Nando de Freitas")
 
 ## Numerical Precision
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
