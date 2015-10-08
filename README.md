@@ -22,15 +22,16 @@
 19. [Quantum Computing](#quantum-computing)
 20. [Training Innovations](#training-innovations)
 21. [Parallel Training](#parallel-training)
-22. [Numerical Optimization](#numerical-optimization)
-23. [Motion Planning](#motion-planning)
-24. [Numerical Precision](#numerical-precision)
-25. [Hardware](#hardware)
-26. [Cognitive Architectures](#cognitive-architectures)
-27. [Computational Creativity](#computational-creativity)
-28. [Cryptography](#cryptography)
-29. [Distributed Computing](#distributed-computing)
-30. [Clustering](#clustering)
+22. [Weight Compression](#weight-compression)
+23. [Numerical Precision](#numerical-precision)
+24. [Numerical Optimization](#numerical-optimization)
+25. [Motion Planning](#motion-planning)
+26. [Hardware](#hardware)
+27. [Cognitive Architectures](#cognitive-architectures)
+28. [Computational Creativity](#computational-creativity)
+29. [Cryptography](#cryptography)
+30. [Distributed Computing](#distributed-computing)
+31. [Clustering](#clustering)
 
 ## Other Lists
 * [DeepLearning.University – An Annotated Deep Learning Bibliography | Memkite](http://memkite.com/deep-learning-bibliography/ "Amund Tveit")
@@ -348,7 +349,13 @@
 * [Empirical Evaluation of Rectified Activations in Convolutional Network](http://arxiv.org/abs/1505.00853 "Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li")
 * [No Regret Bound for Extreme Bandits](http://arxiv.org/abs/1508.02933 "Robert Nishihara, David Lopez-Paz, Léon Bottou")
 
-### Weight Compression
+## Parallel Training
+* [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view "Nikko Strom")
+* [AdaDelay: Delay Adaptive Distributed Stochastic Convex Optimization](http://arxiv.org/abs/1508.05003 "Suvrit Sra, Adams Wei Yu, Mu Li, Alexander J. Smola")
+* [Large Scale Distributed Deep Networks](http://research.google.com/archive/large_deep_networks_nips2012.html "Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Andrew Y. Ng")
+* [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
+
+## Weight Compression
 * [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
   * [Tensorizing Neural Networks presentation](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
   * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28))
@@ -358,11 +365,10 @@
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
 * [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
 
-## Parallel Training
-* [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view "Nikko Strom")
-* [AdaDelay: Delay Adaptive Distributed Stochastic Convex Optimization](http://arxiv.org/abs/1508.05003 "Suvrit Sra, Adams Wei Yu, Mu Li, Alexander J. Smola")
-* [Large Scale Distributed Deep Networks](http://research.google.com/archive/large_deep_networks_nips2012.html "Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Andrew Y. Ng")
-* [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
+## Numerical Precision
+* [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
+* [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
+* [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
 
 ## Numerical Optimization
 * [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
@@ -398,11 +404,6 @@
   * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
   * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4))
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
-
-## Numerical Precision
-* [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
-* [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
-* [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
 
 ## Hardware
 * [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
