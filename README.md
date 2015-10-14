@@ -61,7 +61,6 @@
 
 ## Pretrained Models
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo "Berkeley Vision and Learning Center")
-* [Inception](https://github.com/google/inception "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
 * [word2vec](https://code.google.com/p/word2vec/ "Tomas Mikolov")
   * [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
   * [freebase-vectors-skipgram1000.bin.gz](https://docs.google.com/file/d/0B7XkCwpI5KDYaDBDQm1tZGNDRHc/edit?usp=sharing)
@@ -131,7 +130,7 @@
 * [From Word Embeddings To Document Distances](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf "Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger")
 
 ### Character Vectors
-* [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso")
+* [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso") ([github.com/wlin12/JNN](https://github.com/wlin12/JNN))
 * [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush") ([github.com/yoonkim/lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn))
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
 * [Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs](http://arxiv.org/abs/1508.00657 "Miguel Ballesteros, Chris Dyer, Noah A. Smith")
@@ -163,7 +162,7 @@
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
-* [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882 "Yoon Kim")
+* [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882 "Yoon Kim") ([github.com/yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence))
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
   * [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626 "Xiang Zhang, Junbo Zhao, Yann LeCun")
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
@@ -182,9 +181,9 @@
 * [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
-* [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich")
+* [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich") ([github.com/google/inception](https://github.com/google/inception))
 * [Deep Learning for Single-View Instance Recognition](http://arxiv.org/abs/1507.08286 "David Held, Sebastian Thrun, Silvio Savarese")
-* [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox")
+* [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox") ([github.com/stokasto/caffe/tree/chairs_deconv](https://github.com/stokasto/caffe/tree/chairs_deconv))
 * [Deep Convolutional Inverse Graphics Network](http://arxiv.org/abs/1503.03167 "Tejas D. Kulkarni, Will Whitney, Pushmeet Kohli, Joshua B. Tenenbaum")
 * [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751 "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus")
 * [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389 "Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell")
@@ -311,7 +310,7 @@
 * [A theoretical argument for complex-valued convolutional networks](http://arxiv.org/abs/1503.03438 "Joan Bruna, Soumith Chintala, Yann LeCun, Serkan Piantino, Arthur Szlam, Mark Tygert")
 * [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/abs/1506.03767 "Oren Rippel, Jasper Snoek, Ryan P. Adams")
 * [A Probabilistic Theory of Deep Learning](http://arxiv.org/abs/1504.00641 "Ankit B. Patel, Tan Nguyen, Richard G. Baraniuk")
-* [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163 "Mikael Henaff, Joan Bruna, Yann LeCun")
+* [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163 "Mikael Henaff, Joan Bruna, Yann LeCun") ([github.com/mbhenaff/spectral-lib](https://github.com/mbhenaff/spectral-lib))
 * [Learning with Group Invariant Features: A Kernel Perspective](http://arxiv.org/abs/1506.02544 "Youssef Mroueh, Stephen Voinea, Tomaso Poggio")
 * [Randomized algorithms for matrices and data](http://arxiv.org/abs/1104.5557 "Michael W. Mahoney")
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/ "Christopher Olah")
@@ -330,7 +329,7 @@
 
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
-* [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
+* [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams") ([github.com/HIPS/hypergrad](https://github.com/HIPS/hypergrad))
 * [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
 * [Learning Compact Convolutional Neural Networks with Nested Dropout](http://arxiv.org/abs/1412.7155 "Chelsea Finn, Lisa Anne Hendricks, Trevor Darrell")
 * [Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets](http://arxiv.org/abs/1412.7091 "Pascal Vincent, Alexandre de Brébisson, Xavier Bouthillier")
@@ -341,7 +340,7 @@
 * [Random Walk Initialization for Training Very Deep Feedforward Networks](http://arxiv.org/abs/1412.6558 "David Sussillo, L.F. Abbott")
 * [Deeply-Supervised Nets](http://arxiv.org/abs/1409.5185 "Chen-Yu Lee, Saining Xie, Patrick Gallagher, Zhengyou Zhang, Zhuowen Tu")
 * [Improving neural networks by preventing co-adaptation of feature detectors](http://arxiv.org/abs/1207.0580 "Geoffrey E. Hinton, Nitish Srivastava, Alex Krizhevsky, Ilya Sutskever, Ruslan R. Salakhutdinov")
-  * [Efficient batchwise dropout training using submatrices](http://arxiv.org/abs/1502.02478 "Ben Graham, Jeremy Reizenstein, Leigh Robinson")
+  * [Efficient batchwise dropout training using submatrices](http://arxiv.org/abs/1502.02478 "Ben Graham, Jeremy Reizenstein, Leigh Robinson") ([github.com/btgraham/Batchwise-Dropout](https://github.com/btgraham/Batchwise-Dropout))
   * [Dropout Training for Support Vector Machines](http://arxiv.org/abs/1404.4171 "Ning Chen, Jun Zhu, Jianfei Chen, Bo Zhang")
   * [Dropout as data augmentation](http://arxiv.org/abs/1506.08700 "Kishore Konda, Xavier Bouthillier, Roland Memisevic, Pascal Vincent")
   * [Partitioning Large Scale Deep Belief Networks Using Dropout](http://arxiv.org/abs/1508.07096 "Yanping Huang, Sai Zhang")
@@ -422,15 +421,15 @@
 * [A Large-Scale Model of the Functioning Brain](http://www.sciencemag.org/content/338/6111/1202.full?ijkey=y5vph.jw5AgRQ&keytype=ref&siteid=sci "Chris Eliasmith, Terrence C. Stewart, Xuan Choo, Trevor Bekolay, Travis DeWolf, Yichuan Tang, Daniel Rasmussen")
   * [How to Build a Brain: A Neural Architecture for Biological Cognition](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545 "Chris Eliasmith")
 * [Derivation of a novel efficient supervised learning algorithm from cortical-subcortical loops](http://journal.frontiersin.org/article/10.3389/fncom.2011.00050/full "Ashok Chandrashekar, Richard Granger")
-* [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith")
+* [A Minimal Architecture for General Cognition](http://arxiv.org/abs/1508.00019 "Michael S. Gashler, Zachariah Kindle, Michael R. Smith") ([github.com/mikegashler/manic](https://github.com/mikegashler/manic))
 
 ## Computational Creativity
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
-  * [DeepDream - a code example for visualizing Neural Networks](http://googleresearch.blogspot.com/2015/07/deepdream-code-example-for-visualizing.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka")
+  * [DeepDream - a code example for visualizing Neural Networks](http://googleresearch.blogspot.com/2015/07/deepdream-code-example-for-visualizing.html "Alexander Mordvintsev, Christopher Olah, Mike Tyka") ([github.com/google/deepdream](https://github.com/google/deepdream))
 * [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576 "Leon A. Gatys, Alexander S. Ecker, Matthias Bethge")
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "Andrej Karpathy")
-* [GRUV: Algorithmic Music Generation using Recurrent Neural Networks](http://cs224d.stanford.edu/reports/NayebiAran.pdf "Aran Nayebi, Matt Vitelli")
-* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/ "Daniel Johnson")
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "Andrej Karpathy") ([github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn))
+* [GRUV: Algorithmic Music Generation using Recurrent Neural Networks](http://cs224d.stanford.edu/reports/NayebiAran.pdf "Aran Nayebi, Matt Vitelli") ([github.com/MattVitelli/GRUV](https://github.com/MattVitelli/GRUV))
+* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/ "Daniel Johnson") ([github.com/hexahedria/biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition))
 
 ## Cryptography
 * [Crypto-Nets: Neural Networks over Encrypted Data](http://arxiv.org/abs/1412.6181 "Pengtao Xie, Misha Bilenko, Tom Finley, Ran Gilad-Bachrach, Kristin Lauter, Michael Naehrig")
