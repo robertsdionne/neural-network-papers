@@ -58,6 +58,7 @@
 * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau") ([cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/))
 * [Every publicly available Reddit comment, for research.](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/ "Stuck_In_the_Matrix")
 * [Europarl: A Parallel Corpus for Statistical Machine Translation](http://www.iccs.inf.ed.ac.uk/~pkoehn/publications/europarl-mtsummit05.pdf "Philipp Koehn") ([www.statmt.org/europarl/](http://www.statmt.org/europarl/))
+* [RTE Knowledge Resources](http://aclweb.org/aclwiki/index.php?title=RTE_Knowledge_Resources)
 
 ## Pretrained Models
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo "Berkeley Vision and Learning Center")
@@ -80,6 +81,7 @@
 * [linalg: Matrix Computations in Apache Spark](http://arxiv.org/abs/1509.02256 "Reza Bosagh Zadeh, Xiangrui Meng, Burak Yavuz, Aaron Staple, Li Pu, Shivaram Venkataraman, Evan Sparks, Alexander Ulanov, Matei Zaharia")
 * [cuDNN: Efficient Primitives for Deep Learning](http://arxiv.org/abs/1410.0759 "Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, Bryan Catanzaro, Evan Shelhamer")
 * [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/abs/1412.7580 "Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, Yann LeCun") ([github.com/facebook/fbcuda](https://github.com/facebook/fbcuda))
+* [Guide to NumPy](http://web.mit.edu/dvp/Public/numpybook.pdf "Travis Oliphant")
 * [Probabilistic Programming in Python using PyMC](http://arxiv.org/abs/1507.08050 "John Salvatier, Thomas Wiecki, Christopher Fonnesbeck")
 
 ## Learning to Compute
@@ -102,6 +104,7 @@
 * [Optimal Ordered Problem Solver](http://people.idsia.ch/~juergen/oops.html "Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/oopsmlj.pdf)
   * [The Fastest and Shortest Algorithm for All Well-Defined Problems](http://people.idsia.ch/~juergen/optimalsearch.html "Marcus Hutter") (ftp://ftp.idsia.ch/pub/techrep/IDSIA-16-00.ps.gz)
   * [The Speed Prior: A New Simplicity Measure Yielding Near-Optimal Computable Predictions](http://people.idsia.ch/~juergen/speedprior.html "Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/coltspeed.pdf)
+  * [Learning Game of Life with a Convolutional Neural Network](http://danielrapp.github.io/cnn-gol/ "Daniel Rapp") ([github.com/DanielRapp/cnn-gol](https://github.com/DanielRapp/cnn-gol))
 
 ## Natural Language Processing
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ "Christopher Olah")
@@ -229,6 +232,7 @@
 * [Advances in Optimizing Recurrent Networks](http://arxiv.org/abs/1212.0901 "Yoshua Bengio, Nicolas Boulanger-Lewandowski, Razvan Pascanu")
 * [Learning Stochastic Recurrent Networks](http://arxiv.org/abs/1411.7610 "Justin Bayer, Christian Osendorfer")
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
+* [Optimizing RNN performance](https://svail.github.io/ "Erich Elsen")
 
 ## Convolutional Recurrent Neural Networks
 * [Recurrent Spatial Transformer Networks](http://arxiv.org/abs/1509.05329 "Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe, Ole Winther") ([github.com/skaae/recurrent-spatial-transformer-code](https://github.com/skaae/recurrent-spatial-transformer-code))
