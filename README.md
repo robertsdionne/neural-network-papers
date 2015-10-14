@@ -162,6 +162,8 @@
 * [VQA: Visual Question Answering](http://arxiv.org/abs/1505.00468 "Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh")
 * [Question Answering with Subgraph Embeddings](https://research.facebook.com/publications/1473550739586509/question-answering-with-subgraph-embeddings/ "Antoine Bordes, Sumit Chopra, Jason Weston")
 * [Hierarchical Neural Network Generative Models for Movie Dialogues](http://arxiv.org/abs/1507.04808v1 "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau")
+* [Ask Your Neurons: A Neural-based Approach to Answering Questions about Images](http://arxiv.org/abs/1505.01121 "Mateusz Malinowski, Marcus Rohrbach, Mario Fritz")
+* [Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering](http://arxiv.org/abs/1505.05612 "Haoyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu")
 
 ### Convolutional
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
