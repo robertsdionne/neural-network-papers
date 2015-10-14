@@ -215,6 +215,7 @@
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
+* [How to Construct Deep Recurrent Neural Networks](http://arxiv.org/abs/1312.6026 "Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
 * [Long Short-Term Memory](http://people.idsia.ch/~juergen/rnn.html "Sepp Hochreiter Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)
   * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
   * [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526 "Nal Kalchbrenner, Ivo Danihelka, Alex Graves")
@@ -301,6 +302,7 @@
 
 ## Theory
 * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009 "Nadav Cohen, Or Sharir, Amnon Shashua")
+* [Steps Toward Deep Kernel Methods from Infinite Neural Networks](http://arxiv.org/abs/1508.05133 "Tamir Hazan, Tommi Jaakkola")
 * [On the Number of Linear Regions of Deep Neural Networks](http://arxiv.org/abs/1402.1869 "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, Yoshua Bengio")
 * [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
   * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://arxiv.org/abs/1406.2572 "Yann Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, Yoshua Bengio")
