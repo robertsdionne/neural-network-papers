@@ -333,6 +333,7 @@
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams")
 * [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
 * [Learning Compact Convolutional Neural Networks with Nested Dropout](http://arxiv.org/abs/1412.7155 "Chelsea Finn, Lisa Anne Hendricks, Trevor Darrell")
+* [Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets](http://arxiv.org/abs/1412.7091 "Pascal Vincent, Alexandre de Brébisson, Xavier Bouthillier")
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167 "Sergey Ioffe, Christian Szegedy")
   * [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378 "César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio")
 * [Highway Networks](http://arxiv.org/abs/1505.00387 "Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber")
