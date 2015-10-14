@@ -238,7 +238,7 @@
 ## Autoencoders
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
 * [Analyzing noise in autoencoders and deep networks](http://arxiv.org/abs/1406.1831 "Ben Poole, Jascha Sohl-Dickstein, Surya Ganguli")
-* [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle")
+* [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle") ([github.com/mgermain/MADE](https://github.com/mgermain/MADE))
 * [Winner-Take-All Autoencoders](http://arxiv.org/abs/1409.2752 "Alireza Makhzani, Brendan Frey")
 * [k-Sparse Autoencoders](http://arxiv.org/abs/1312.5663 "Alireza Makhzani, Brendan Frey")
 * [Zero-bias autoencoders and the benefits of co-adapting features](http://arxiv.org/abs/1402.3337 "Kishore Konda, Roland Memisevic, David Krueger")
