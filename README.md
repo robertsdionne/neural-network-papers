@@ -216,6 +216,7 @@
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
 * [How to Construct Deep Recurrent Neural Networks](http://arxiv.org/abs/1312.6026 "Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio")
+* [DAG-Recurrent Neural Networks For Scene Labeling](http://arxiv.org/abs/1509.00552 "Bing Shuai, Zhen Zuo, Gang Wang, Bing Wang")
 * [Long Short-Term Memory](http://people.idsia.ch/~juergen/rnn.html "Sepp Hochreiter Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)
   * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
   * [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526 "Nal Kalchbrenner, Ivo Danihelka, Alex Graves")
