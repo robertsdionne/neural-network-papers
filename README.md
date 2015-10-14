@@ -111,6 +111,7 @@
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
+* [Controlled Experiments for Word Embeddings](http://arxiv.org/abs/1510.02675 "Benjamin J. Wilson, Adriaan M. J. Schakel")
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
   * [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/abs/1310.4546 "Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean")
