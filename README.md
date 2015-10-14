@@ -89,7 +89,7 @@
 * [Memory Networks](http://arxiv.org/abs/1410.3916 "Jason Weston, Sumit Chopra, Antoine Bordes") ([github.com/facebook/MemNN](https://github.com/facebook/MemNN))
   * [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895 "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus")
 * [Learning to Transduce with Unbounded Memory](http://arxiv.org/abs/1506.02516 "Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom")
-* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007 "Armand Joulin, Tomas Mikolov")
+* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007 "Armand Joulin, Tomas Mikolov") ([github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN))
   * [Learning Context Free Grammars: Limitations of a Recurrent Neural Network with an External Stack Memory](https://clgiles.ist.psu.edu/papers/Cog.Sci.conf.14th.NNPDA.pdf "Sreerupa Das, C. Lee Giles, Guo-Zheng Sun")
   * [A connectionist symbol manipulator that discovers the structure of context-free languages](http://papers.nips.cc/paper/626-a-connectionist-symbol-manipulator-that-discovers-the-structure-of-context-free-languages.pdf "Michael C. Mozer, Sreerupa Das")
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
@@ -379,7 +379,7 @@
 * [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
 
 ## Numerical Optimization
-* [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos")
+* [Recursive Decomposition for Nonconvex Optimization](http://homes.cs.washington.edu/~pedrod/papers/ijcai15.pdf "Abram L. Friesen, Pedro Domingos") ([github.com/afriesen/rdis](https://github.com/afriesen/rdis))
   * [Recursive Decomposition for Nonconvex Optimization: Supplementary Material](http://homes.cs.washington.edu/~afriesen/papers/ijcai2015sp.pdf "Abram L. Friesen, Pedro Domingos")
 * [Beating the Perils of Non-Convexity: Guaranteed Training of Neural Networks using Tensor Methods](http://arxiv.org/abs/1506.08473 "Majid Janzamin, Hanie Sedghi, Anima Anandkumar")
 * [Adapting Resilient Propagation for Deep Learning](http://arxiv.org/abs/1509.04612 "Alan Mosca, George D. Magoulas")
