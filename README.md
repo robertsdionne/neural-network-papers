@@ -210,7 +210,7 @@
 
 ## Recurrent Neural Networks
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
-* [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda")
+* [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
 * [Long Short-Term Memory](http://people.idsia.ch/~juergen/rnn.html "Sepp Hochreiter Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)
   * [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069 "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutník, Bas R. Steunebrink, Jürgen Schmidhuber")
@@ -285,12 +285,14 @@
 * [Rectified Factor Networks](http://arxiv.org/abs/1502.06464 "Djork-Arné Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter")
 * [An Analysis of Single-Layer Networks in Unsupervised Feature Learning](http://ai.stanford.edu/~ang/papers/nipsdlufl10-AnalysisSingleLayerUnsupervisedFeatureLearning.pdf "Adam Coates, Honglak Lee, Andrew Y. Ng")
 * [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585 "Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli")
+* [On-the-Fly Learning in a Perpetual Learning Machine](http://arxiv.org/abs/1509.00913 "Andrew J.R. Simpson")
 
 ## Reinforcement Learning
 * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731 "Shakir Mohamed, Danilo Jimenez Rezende")
 * [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis")
 * [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602 "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller")
 * [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
+* [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/abs/1509.01549 "Matthew Lai") ([bitbucket.org/waterreaction/giraffe](https://bitbucket.org/waterreaction/giraffe))
 
 ## Theory
 * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009 "Nadav Cohen, Or Sharir, Amnon Shashua")
