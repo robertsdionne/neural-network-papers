@@ -94,6 +94,7 @@
   * [A connectionist symbol manipulator that discovers the structure of context-free languages](http://papers.nips.cc/paper/626-a-connectionist-symbol-manipulator-that-discovers-the-structure-of-context-free-languages.pdf "Michael C. Mozer, Sreerupa Das")
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
 * [Learning to Execute](http://arxiv.org/abs/1410.4615 "Wojciech Zaremba, Ilya Sutskever")
+* [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834 "Samuel R. Bowman, Christopher D. Manning, Christopher Potts")
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
 * [Learning To Learn Using Gradient Descent](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.5.323 "Sepp Hochreiter, A. Steven Younger, Peter R. Conwell")
 * [Learning to control fast-weight memories: An alternative to recurrent nets](http://people.idsia.ch/~juergen/fastweights/ncfastweightsrev.html "Jürgen Schmidhuber") (ftp://ftp.idsia.ch/pub/juergen/fastweights.ps.gz)
