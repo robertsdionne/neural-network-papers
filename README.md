@@ -69,24 +69,24 @@
 * [SENNA](http://ronan.collobert.com/senna/ "R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuoglu, P. Kuksa")
 
 ## Programming Frameworks
-* [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093 "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell")
-  * [Improving Caffe: Some Refactoring](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-improving.pdf "Yangqing Jia")
-* [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf "James Bergstra, Olivier Breuleux, Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, Guillaume Desjardins, Joseph Turian, David Warde-Farley, Yoshua Bengio")
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093 "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, Trevor Darrell") ([github.com/BVLC/caffe](https://github.com/BVLC/caffe)) ([github.com/amd/OpenCL-caffe](https://github.com/amd/OpenCL-caffe))
+  * [Improving Caffe: Some Refactoring](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-improving.pdf "Yangqing Jia") ([github.com/Yangqing/caffe2](https://github.com/Yangqing/caffe2))
+* [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf "James Bergstra, Olivier Breuleux, Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, Guillaume Desjardins, Joseph Turian, David Warde-Farley, Yoshua Bengio") ([github.com/Theano/Theano](https://github.com/Theano/Theano))
   * [Theano: new features and speed improvements](http://arxiv.org/abs/1211.5590 "Frédéric Bastien, Pascal Lamblin, Razvan Pascanu, James Bergstra, Ian Goodfellow, Arnaud Bergeron, Nicolas Bouchard, David Warde-Farley, Yoshua Bengio")
-  * [Blocks and Fuel: Frameworks for deep learning](http://arxiv.org/abs/1506.00619 "Bart van Merriënboer, Dzmitry Bahdanau, Vincent Dumoulin, Dmitriy Serdyuk, David Warde-Farley, Jan Chorowski, Yoshua Bengio")
-  * [Announcing Computation Graph Toolkit](http://joschu.github.io/index.html#Announcing CGT "John Schulman")
-* [Torch7: A Matlab-like Environment for Machine Learning](http://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf "Ronan Collobert, Koray Kavukcuoglu, Clément Farabet")
-* [Deeplearning4j - Open-source, distributed deep learning for the JVM](http://deeplearning4j.org/ "Adam Gibson, Chris Nicholson, Josh Patterson et al.")
-  * [ND4J: N-Dimensional Arrays for Java N-Dimensional Scientific Computing for Java](http://nd4j.org/ "Adam Gibson, Chris Nicholson, Josh Patterson et al.")
+  * [Blocks and Fuel: Frameworks for deep learning](http://arxiv.org/abs/1506.00619 "Bart van Merriënboer, Dzmitry Bahdanau, Vincent Dumoulin, Dmitriy Serdyuk, David Warde-Farley, Jan Chorowski, Yoshua Bengio") ([github.com/mila-udem/blocks](https://github.com/mila-udem/blocks)) ([github.com/mila-udem/blocks-examples](https://github.com/mila-udem/blocks-examples)) ([github.com/mila-udem/fuel](https://github.com/mila-udem/fuel))
+  * [Announcing Computation Graph Toolkit](http://joschu.github.io/index.html#Announcing CGT "John Schulman") ([github.com/joschu/cgt](https://github.com/joschu/cgt))
+* [Torch7: A Matlab-like Environment for Machine Learning](http://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf "Ronan Collobert, Koray Kavukcuoglu, Clément Farabet") ([github.com/torch/distro](https://github.com/torch/distro))
+* [Deeplearning4j - Open-source, distributed deep learning for the JVM](http://deeplearning4j.org/ "Adam Gibson, Chris Nicholson, Josh Patterson et al.") ([github.com/deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j))
+  * [ND4J: N-Dimensional Arrays for Java N-Dimensional Scientific Computing for Java](http://nd4j.org/ "Adam Gibson, Chris Nicholson, Josh Patterson et al.") ([github.com/deeplearning4j/nd4j](https://github.com/deeplearning4j/nd4j))
 * [linalg: Matrix Computations in Apache Spark](http://arxiv.org/abs/1509.02256 "Reza Bosagh Zadeh, Xiangrui Meng, Burak Yavuz, Aaron Staple, Li Pu, Shivaram Venkataraman, Evan Sparks, Alexander Ulanov, Matei Zaharia")
 * [cuDNN: Efficient Primitives for Deep Learning](http://arxiv.org/abs/1410.0759 "Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, Bryan Catanzaro, Evan Shelhamer")
-* [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/abs/1412.7580 "Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, Yann LeCun")
+* [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/abs/1412.7580 "Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, Yann LeCun") ([github.com/facebook/fbcuda](https://github.com/facebook/fbcuda))
 * [Probabilistic Programming in Python using PyMC](http://arxiv.org/abs/1507.08050 "John Salvatier, Thomas Wiecki, Christopher Fonnesbeck")
 
 ## Learning to Compute
 * [Neural Turing Machines](http://arxiv.org/abs/1410.5401 "Alex Graves, Greg Wayne, Ivo Danihelka")
   * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521 "Wojciech Zaremba, Ilya Sutskever")
-* [Memory Networks](http://arxiv.org/abs/1410.3916 "Jason Weston, Sumit Chopra, Antoine Bordes")
+* [Memory Networks](http://arxiv.org/abs/1410.3916 "Jason Weston, Sumit Chopra, Antoine Bordes") ([github.com/facebook/MemNN](https://github.com/facebook/MemNN))
   * [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895 "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus")
 * [Learning to Transduce with Unbounded Memory](http://arxiv.org/abs/1506.02516 "Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom")
 * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007 "Armand Joulin, Tomas Mikolov")
@@ -112,7 +112,7 @@
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
-* [Controlled Experiments for Word Embeddings](http://arxiv.org/abs/1510.02675 "Benjamin J. Wilson, Adriaan M. J. Schakel")
+* [Controlled Experiments for Word Embeddings](http://arxiv.org/abs/1510.02675 "Benjamin J. Wilson, Adriaan M. J. Schakel") ([github.com/benjaminwilson/word2vec-norm-experiments](https://github.com/benjaminwilson/word2vec-norm-experiments))
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
   * [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/abs/1310.4546 "Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean")
@@ -127,7 +127,7 @@
 ### Sentence and Paragraph Vectors
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
 * [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
-* [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler")
+* [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler") ([github.com/ryankiros/skip-thoughts](https://github.com/ryankiros/skip-thoughts))
 * [From Word Embeddings To Document Distances](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf "Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger")
 
 ### Character Vectors
@@ -195,7 +195,7 @@
 * [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852 "Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox")
 * [DeepStereo: Learning to Predict New Views from the World's Imagery](http://arxiv.org/abs/1506.06825 "John Flynn, Ivan Neulander, James Philbin, Noah Snavely")
 * [Deep convolutional filter banks for texture recognition and segmentation](http://arxiv.org/abs/1411.6836 "Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi")
-* [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832 "Florian Schroff, Dmitry Kalenichenko, James Philbin")
+* [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832 "Florian Schroff, Dmitry Kalenichenko, James Philbin") ([github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface))
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/ "Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf")
 * [Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network](http://arxiv.org/abs/1504.04658 "Andrew J.R. Simpson, Gerard Roma, Mark D. Plumbley")
 * [3D ConvNets with Optical Flow Based Regularization](http://cs231n.stanford.edu/reports/kjchavez_final.pdf "Kevin Chavez")
@@ -243,7 +243,7 @@
 * [Winner-Take-All Autoencoders](http://arxiv.org/abs/1409.2752 "Alireza Makhzani, Brendan Frey")
 * [k-Sparse Autoencoders](http://arxiv.org/abs/1312.5663 "Alireza Makhzani, Brendan Frey")
 * [Zero-bias autoencoders and the benefits of co-adapting features](http://arxiv.org/abs/1402.3337 "Kishore Konda, Roland Memisevic, David Krueger")
-* [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519 "Yuri Burda, Roger Grosse, Ruslan Salakhutdinov")
+* [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519 "Yuri Burda, Roger Grosse, Ruslan Salakhutdinov") ([github.com/yburda/iwae](https://github.com/yburda/iwae))
 * [Generalized Denoising Auto-Encoders as Generative Models](http://arxiv.org/abs/1305.6663 "Yoshua Bengio, Li Yao, Guillaume Alain, Pascal Vincent")
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
@@ -362,15 +362,15 @@
 * [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
 
 ## Weight Compression
-* [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
+* [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov") ([github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet))
   * [Tensorizing Neural Networks presentation](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
-  * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28))
+  * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28)) ([github.com/oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox))
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
 * [Structured Transforms for Small-Footprint Deep Learning](http://arxiv.org/abs/1510.01722 "Vikas Sindhwani, Tara N. Sainath, Sanjiv Kumar")
 * [A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding](http://arxiv.org/abs/1510.00149 "Song Han, Huizi Mao, William J. Dally")
 * [Learning both Weights and Connections for Efficient Neural Networks](http://arxiv.org/abs/1506.02626 "Song Han, Jeff Pool, John Tran, William J. Dally")
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
-* [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello")
+* [Flattened Convolutional Neural Networks for Feedforward Acceleration](http://arxiv.org/abs/1412.5474 "Jonghoon Jin, Aysegul Dundar, Eugenio Culurciello") ([github.com/jhjin/flattened-cnn](https://github.com/jhjin/flattened-cnn))
 * [Predicting Parameters in Deep Learning](http://arxiv.org/abs/1306.0543 "Misha Denil, Babak Shakibi, Laurent Dinh, Marc'Aurelio Ranzato, Nando de Freitas")
 
 ## Numerical Precision
@@ -410,7 +410,7 @@
 * [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
 * [Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186 "Sertac Karaman, Emilio Frazzoli") ([youtu.be/r34XWEZ41HA](http://youtu.be/r34XWEZ41HA))
   * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
-  * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4))
+  * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4)) ([github.com/utiasASRL/batch-informed-trees](https://github.com/utiasASRL/batch-informed-trees))
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
 
 ## Hardware
