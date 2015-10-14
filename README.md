@@ -247,6 +247,7 @@
 * [Marginalized Denoising Auto-encoders for Nonlinear Representations](http://www.cse.wustl.edu/~mchen/papers/deepmsda.pdf "Minmin Chen, Kilian Weinberger, Fei Sha, Yoshua Bengio")
   * [Marginalized Denoising Autoencoders for Domain Adaptation](http://arxiv.org/abs/1206.4683 "Minmin Chen, Zhixiang Xu, Kilian Weinberger, Fei Sha")
 * [Real-time Hebbian Learning from Autoencoder Features for Control Tasks](http://mitpress.mit.edu/sites/default/files/titles/content/alife14/ch034.html "Justin K. Pugh, Andrea Soltoggio, Kenneth O. Stanley")
+* [Procedural Modeling Using Autoencoder Networks](http://www.meyumer.com/pm_autoencoder.html "Mehmet Ersin Yumer, Paul Asente, Radomir Mech, Levent Burak Kara") ([pdf](http://www.meyumer.com/pdfs/PmAutoencoder.pdf)) ([youtu.be/wl3h4S1g2u4](http://youtu.be/wl3h4S1g2u4))
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
 * [Towards universal neural nets: Gibbs machines and ACE](http://arxiv.org/abs/1508.06585 "Galin Georgiev")
 * [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf "G. E. Hinton, A. Krizhevsky, S. D. Wang")
