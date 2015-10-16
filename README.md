@@ -287,7 +287,7 @@
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
 * [Unsupervised Feature Learning from Temporal Data](http://arxiv.org/abs/1504.02518 "Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun")
 * [Learning to Linearize Under Uncertainty](http://arxiv.org/abs/1506.03011 "Ross Goroshin, Michael Mathieu, Yann LeCun")
-* [Semi-Supervised Learning with Ladder Network](http://arxiv.org/abs/1507.02672 "Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko")
+* [Semi-Supervised Learning with Ladder Network](http://arxiv.org/abs/1507.02672 "Antti Rasmus, Harri Valpola, Mikko Honkala, Mathias Berglund, Tapani Raiko") ([github.com/arasmus/ladder](https://github.com/arasmus/ladder))
   * [Denoising autoencoder with modulated lateral connections learns invariant representations of natural images](http://arxiv.org/abs/1412.7210 "Antti Rasmus, Tapani Raiko, Harri Valpola")
   * [Lateral Connections in Denoising Autoencoders Support Supervised Learning](http://arxiv.org/abs/1504.08215 "Antti Rasmus, Harri Valpola, Tapani Raiko")
 * [Semi-Supervised Learning with Deep Generative Models](http://arxiv.org/abs/1406.5298 "Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling")
