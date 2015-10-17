@@ -93,6 +93,7 @@
 * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/abs/1503.01007 "Armand Joulin, Tomas Mikolov") ([github.com/facebook/Stack-RNN](https://github.com/facebook/Stack-RNN))
   * [Learning Context Free Grammars: Limitations of a Recurrent Neural Network with an External Stack Memory](https://clgiles.ist.psu.edu/papers/Cog.Sci.conf.14th.NNPDA.pdf "Sreerupa Das, C. Lee Giles, Guo-Zheng Sun")
   * [A connectionist symbol manipulator that discovers the structure of context-free languages](http://papers.nips.cc/paper/626-a-connectionist-symbol-manipulator-that-discovers-the-structure-of-context-free-languages.pdf "Michael C. Mozer, Sreerupa Das")
+* [Feedforward Sequential Memory Neural Networks without Recurrent Feedback](http://arxiv.org/abs/1510.02693 "ShiLiang Zhang, Hui Jiang, Si Wei, LiRong Dai")
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
 * [Learning to Execute](http://arxiv.org/abs/1410.4615 "Wojciech Zaremba, Ilya Sutskever")
 * [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834 "Samuel R. Bowman, Christopher D. Manning, Christopher Potts")
@@ -387,6 +388,7 @@
 * [Predicting Parameters in Deep Learning](http://arxiv.org/abs/1306.0543 "Misha Denil, Babak Shakibi, Laurent Dinh, Marc'Aurelio Ranzato, Nando de Freitas")
 
 ## Numerical Precision
+* [Neural Networks with Few Multiplications](http://arxiv.org/abs/1510.03009 "Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio")
 * [Deep Learning with Limited Numerical Precision](http://arxiv.org/abs/1502.02551 "Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan")
 * [Low precision storage for deep learning](http://arxiv.org/abs/1412.7024 "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David")
 * [1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/apps/pubs/?id=230137 "Frank Seide, Hao Fu, Jasha Droppo, Gang Li, Dong Yu")
