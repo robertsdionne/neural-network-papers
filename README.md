@@ -308,6 +308,8 @@
 
 ## Theory
 * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009 "Nadav Cohen, Or Sharir, Amnon Shashua")
+* [ℓ1-regularized Neural Networks are Improperly Learnable in Polynomial Time](http://arxiv.org/abs/1510.03528 "Yuchen Zhang, Jason D. Lee, Michael I. Jordan")
+* [Provable approximation properties for deep neural networks](http://arxiv.org/abs/1509.07385 "Uri Shaham, Alexander Cloninger, Ronald R. Coifman")
 * [Steps Toward Deep Kernel Methods from Infinite Neural Networks](http://arxiv.org/abs/1508.05133 "Tamir Hazan, Tommi Jaakkola")
 * [On the Number of Linear Regions of Deep Neural Networks](http://arxiv.org/abs/1402.1869 "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, Yoshua Bengio")
 * [On the saddle point problem for non-convex optimization](http://arxiv.org/abs/1405.4604 "Razvan Pascanu, Yann N. Dauphin, Surya Ganguli, Yoshua Bengio")
@@ -461,4 +463,5 @@
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/abs/1406.2294 "John Lamping, Eric Veach")
 
 ## Clustering
+* [Clustering is Easy When ....What?](http://arxiv.org/abs/1510.05336 "Shai Ben-David")
 * [Clustering by fast search and find of density peaks](https://dl.dropboxusercontent.com/u/182368464/2014-rodriguez.pdf "Alex Rodriguez, Alessandro Laio")
