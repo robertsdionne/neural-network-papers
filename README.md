@@ -115,7 +115,7 @@
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
-* [So similar and yet incompatible: Toward automated identification of semantically compatible words](http://clic.cimec.unitn.it/marco/publications/kruszewski-baroni-compatibility-naacl-2015.pdf "Germán Kruszewski, Marco Baroni")
+* [So similar and yet incompatible: Toward automated identification of semantically compatible words](http://clic.cimec.unitn.it/marco/publications/kruszewski-baroni-compatibility-naacl-2015.pdf "Germán Kruszewski, Marco Baroni") ([github.com/germank/compatibility-naacl2015](https://github.com/germank/compatibility-naacl2015))
 * [Controlled Experiments for Word Embeddings](http://arxiv.org/abs/1510.02675 "Benjamin J. Wilson, Adriaan M. J. Schakel") ([github.com/benjaminwilson/word2vec-norm-experiments](https://github.com/benjaminwilson/word2vec-norm-experiments))
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
