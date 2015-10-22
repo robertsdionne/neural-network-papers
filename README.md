@@ -435,6 +435,7 @@
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
 
 ## Hardware
+* [VLSI Implementation of Deep Neural Network Using Integral Stochastic Computing](http://arxiv.org/abs/1509.08972 "Arash Ardakani, François Leduc-Primeau, Naoya Onizawa, Takahiro Hanyu, Warren J. Gross")
 * [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
 * [AHaH Computing–From Metastable Switches to Attractors to Machine Learning](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085175 "Michael Alexander Nugent, Timothy Wesley Molter")
 * [Finding a roadmap to achieve large neuromorphic hardware systems](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767911/ "Jennifer Hasler, Bo Marr")
