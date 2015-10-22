@@ -168,6 +168,7 @@
 * [Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering](http://arxiv.org/abs/1505.05612 "Haoyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu")
 
 ### Convolutional
+* [Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks.](http://biorxiv.org/content/early/2015/10/05/028399.abstract "David R Kelley, Jasper Snoek, John Rinn")
 * [A Convolutional Neural Network for Modelling Sentences](http://arxiv.org/abs/1404.2188 "Nal Kalchbrenner, Edward Grefenstette, Phil Blunsom")
 * [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882 "Yoon Kim") ([github.com/yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence))
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710 "Xiang Zhang, Yann LeCun")
