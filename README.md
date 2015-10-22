@@ -268,7 +268,6 @@
   * [A simple algorithm that discovers efficient perceptual codes](https://www.cs.toronto.edu/~hinton/absps/percepts.pdf "Brendan J. Frey, Peter Dayan, Geoffrey E. Hinton")
   * [Reweighted Wake-Sleep](http://arxiv.org/abs/1406.2751 "Jörg Bornschein, Yoshua Bengio")
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
-* [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
 * [Quantum Inspired Training for Boltzmann Machines](http://arxiv.org/abs/1507.02642 "Nathan Wiebe, Ashish Kapoor, Christopher Granade, Krysta M Svore")
 
 ## Biologically Plausible Learning
@@ -343,6 +342,8 @@
 * [Quantum algorithms for supervised and unsupervised machine learning](http://arxiv.org/abs/1307.0411 "Seth Lloyd, Masoud Mohseni, Patrick Rebentrost")
 * [Entanglement-Based Machine Learning on a Quantum Computer](http://arxiv.org/abs/1409.7770 "X.-D. Cai, D. Wu, Z.-E. Su, M.-C. Chen, X.-L. Wang, L. Li, N.-L. Liu, C.-Y. Lu, J.-W. Pan")
 * [A quantum speedup in machine learning: Finding a N-bit Boolean function for a classification](http://arxiv.org/abs/1303.6055 "Seokwon Yoo, Jeongho Bang, Changhyoup Lee, Jinhyoung Lee")
+* [Application of Quantum Annealing to Training of Deep Neural Networks](http://arxiv.org/abs/1510.06356 "Steven H. Adachi, Maxwell P. Henderson")
+* [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
 
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
