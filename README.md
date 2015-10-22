@@ -115,6 +115,7 @@
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
+* [So similar and yet incompatible: Toward automated identification of semantically compatible words](http://clic.cimec.unitn.it/marco/publications/kruszewski-baroni-compatibility-naacl-2015.pdf "Germán Kruszewski, Marco Baroni")
 * [Controlled Experiments for Word Embeddings](http://arxiv.org/abs/1510.02675 "Benjamin J. Wilson, Adriaan M. J. Schakel") ([github.com/benjaminwilson/word2vec-norm-experiments](https://github.com/benjaminwilson/word2vec-norm-experiments))
 * [Natural Language Processing (almost) from Scratch](http://arxiv.org/abs/1103.0398 "Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa")
 * [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/abs/1301.3781 "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean")
@@ -274,6 +275,7 @@
 * [How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation](http://arxiv.org/abs/1407.7906 "Yoshua Bengio")
   * [Difference Target Propagation](http://arxiv.org/abs/1412.7525 "Dong-Hyun Lee, Saizheng Zhang, Asja Fischer, Antoine Biard, Yoshua Bengio")
   * [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156 "Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin")
+* [How Important is Weight Symmetry in Backpropagation?](http://arxiv.org/abs/1510.05067 "Qianli Liao, Joel Z. Leibo, Tomaso Poggio") 
 * [Random feedback weights support learning in deep neural networks](http://arxiv.org/abs/1411.0247 "Timothy P. Lillicrap, Daniel Cownden, Douglas B. Tweed, Colin J. Akerman")
 
 ## Supervised Learning
