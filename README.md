@@ -345,6 +345,7 @@
 * [A quantum speedup in machine learning: Finding a N-bit Boolean function for a classification](http://arxiv.org/abs/1303.6055 "Seokwon Yoo, Jeongho Bang, Changhyoup Lee, Jinhyoung Lee")
 * [Application of Quantum Annealing to Training of Deep Neural Networks](http://arxiv.org/abs/1510.06356 "Steven H. Adachi, Maxwell P. Henderson")
 * [Quantum Deep Learning](http://arxiv.org/abs/1412.3489 "Nathan Wiebe, Ashish Kapoor, Krysta M. Svore")
+* [Experimental Realization of Quantum Artificial Intelligence](http://arxiv.org/abs/1410.1054 "Li Zhaokai, Liu Xiaomei, Xu Nanyang, Du jiangfeng")
 
 ## Training Innovations
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
