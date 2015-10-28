@@ -87,6 +87,7 @@
 ## Learning to Compute
 * [Neural Turing Machines](http://arxiv.org/abs/1410.5401 "Alex Graves, Greg Wayne, Ivo Danihelka")
   * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521 "Wojciech Zaremba, Ilya Sutskever")
+  * [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931 "Wei Zhang, Yang Yu, Bowen Zhou")
 * [Memory Networks](http://arxiv.org/abs/1410.3916 "Jason Weston, Sumit Chopra, Antoine Bordes") ([github.com/facebook/MemNN](https://github.com/facebook/MemNN))
   * [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895 "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus")
 * [Learning to Transduce with Unbounded Memory](http://arxiv.org/abs/1506.02516 "Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom")
@@ -95,6 +96,7 @@
   * [A connectionist symbol manipulator that discovers the structure of context-free languages](http://papers.nips.cc/paper/626-a-connectionist-symbol-manipulator-that-discovers-the-structure-of-context-free-languages.pdf "Michael C. Mozer, Sreerupa Das")
 * [Feedforward Sequential Memory Neural Networks without Recurrent Feedback](http://arxiv.org/abs/1510.02693 "ShiLiang Zhang, Hui Jiang, Si Wei, LiRong Dai")
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
+* [On End-to-End Program Generation from User Intention by Deep Neural Networks](http://arxiv.org/abs/1510.07211 "Lili Mou, Rui Men, Ge Li, Lu Zhang, Zhi Jin")
 * [Learning to Execute](http://arxiv.org/abs/1410.4615 "Wojciech Zaremba, Ilya Sutskever")
 * [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834 "Samuel R. Bowman, Christopher D. Manning, Christopher Potts")
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
@@ -215,6 +217,7 @@
 * [Invariant backpropagation: how to train a transformation-invariant neural network](http://arxiv.org/abs/1502.04434 "Sergey Demyanov, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie")
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
+* [Learning 3D Shape (1)](http://danfischetti.github.io/jekyll/update/2015/10/24/understanding-shape-1.html "Dan Fischetti")
 
 ## Recurrent Neural Networks
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
@@ -247,6 +250,7 @@
 * [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053 "Kyunghyun Cho, Aaron Courville, Yoshua Bengio")
 
 ## Autoencoders
+* [Correlational Neural Networks](http://arxiv.org/abs/1504.07225 "Sarath Chandar, Mitesh M. Khapra, Hugo Larochelle, Balaraman Ravindran")
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
 * [Analyzing noise in autoencoders and deep networks](http://arxiv.org/abs/1406.1831 "Ben Poole, Jascha Sohl-Dickstein, Surya Ganguli")
 * [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle") ([github.com/mgermain/MADE](https://github.com/mgermain/MADE))
@@ -336,6 +340,7 @@
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ "Christopher Olah")
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/ "Christopher Olah")
 * [Causal Entropic Forces](http://www.alexwg.org/publications/PhysRevLett_110-168702.pdf "A. D. Wissner-Gross, C. E. Freer")
+* [On the Computability of AIXI](http://arxiv.org/abs/1510.05572 "Jan Leike, Marcus Hutter")
 * [Physics, Topology, Logic and Computation: A Rosetta Stone](http://arxiv.org/abs/0903.0340 "John C. Baez, Mike Stay")
 
 ## Quantum Computing
@@ -425,6 +430,7 @@
 * [Unit Tests for Stochastic Optimization](http://arxiv.org/abs/1312.6055 "Tom Schaul, Ioannis Antonoglou, David Silver")
 * [A* Sampling](http://arxiv.org/abs/1411.0030 "Chris J. Maddison, Daniel Tarlow, Tom Minka")
 * [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114 "Yuxin Chen, Emmanuel J. Candes")
+* [When Are Nonconvex Problems Not Scary?](http://arxiv.org/abs/1510.06096 "Ju Sun, Qing Qu, John Wright")
 * [Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767 "Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind")
 
 ## Motion Planning
@@ -438,6 +444,8 @@
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
 
 ## Hardware
+* [Towards Trainable Media: Using Waves for Neural Network-Style Training](http://arxiv.org/abs/1510.03776 "Michiel Hermans, Thomas Van Vaerenbergh")
+* [Random Projections through multiple optical scattering: Approximating kernels at the speed of light](http://arxiv.org/abs/1510.06664 "Alaa Saade, Francesco Caltagirone, Igor Carron, Laurent Daudet, Angélique Drémeau, Sylvain Gigan, Florent Krzakala")
 * [VLSI Implementation of Deep Neural Network Using Integral Stochastic Computing](http://arxiv.org/abs/1509.08972 "Arash Ardakani, François Leduc-Primeau, Naoya Onizawa, Takahiro Hanyu, Warren J. Gross")
 * [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html "M. Prezioso,	F. Merrikh-Bayat,	B. D. Hoskins,	G. C. Adam,	K. K. Likharev, D. B. Strukov")
 * [AHaH Computing–From Metastable Switches to Attractors to Machine Learning](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085175 "Michael Alexander Nugent, Timothy Wesley Molter")
