@@ -178,6 +178,7 @@
 * [DeepWriterID: An End-to-end Online Text-independent Writer Identification System](http://arxiv.org/abs/1508.04945 "Weixin Yang, Lianwen Jin, Manfei Liu")
 * [Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv.org/abs/1503.01838 "Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu")
 * [Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling](http://arxiv.org/abs/1506.07650 "Kun Xu, Yansong Feng, Songfang Huang, Dongyan Zhao")
+* [Convolutional Neural Network Architectures for Matching Natural Language Sentences](http://arxiv.org/abs/1503.03244 "Baotian Hu, Zhengdong Lu, Hang Li, Qingcai Chen")
 
 ### Recurrent
 * [Long Short-Term Memory Over Tree Structures](http://arxiv.org/abs/1503.04881 "Xiaodan Zhu, Parinaz Sobhani, Hongyu Guo")
