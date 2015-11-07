@@ -101,6 +101,7 @@
 * [Feedforward Sequential Memory Neural Networks without Recurrent Feedback](http://arxiv.org/abs/1510.02693 "ShiLiang Zhang, Hui Jiang, Si Wei, LiRong Dai")
 * [Pointer Networks](http://arxiv.org/abs/1506.03134 "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly")
 * [On End-to-End Program Generation from User Intention by Deep Neural Networks](http://arxiv.org/abs/1510.07211 "Lili Mou, Rui Men, Ge Li, Lu Zhang, Zhi Jin")
+* [Deep Knowledge Tracing](http://arxiv.org/abs/1506.05908 "Chris Piech, Jonathan Spencer, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein")
 * [Learning to Execute](http://arxiv.org/abs/1410.4615 "Wojciech Zaremba, Ilya Sutskever")
 * [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834 "Samuel R. Bowman, Christopher D. Manning, Christopher Potts")
 * [Grammar as a Foreign Language](http://arxiv.org/abs/1412.7449 "Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton")
