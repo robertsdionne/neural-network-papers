@@ -265,6 +265,7 @@
 
 ## Autoencoders
 * [Correlational Neural Networks](http://arxiv.org/abs/1504.07225 "Sarath Chandar, Mitesh M. Khapra, Hugo Larochelle, Balaraman Ravindran")
+* [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf "Tijmen Tieleman") ([github.com/mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network))
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114 "Diederik P Kingma, Max Welling")
 * [Analyzing noise in autoencoders and deep networks](http://arxiv.org/abs/1406.1831 "Ben Poole, Jascha Sohl-Dickstein, Surya Ganguli")
 * [MADE: Masked Autoencoder for Distribution Estimation](http://arxiv.org/abs/1502.03509 "Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle") ([github.com/mgermain/MADE](https://github.com/mgermain/MADE))
