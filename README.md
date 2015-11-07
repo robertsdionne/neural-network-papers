@@ -47,6 +47,7 @@
 ## Surveys
 * [Deep Learning](http://rdcu.be/cW4c "Yann LeCunn, Yoshua Bengio, Geoffrey Hinton")
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828 "Juergen Schmidhuber")
+* [Deep neural networks: a new framework for modelling biological vision and brain information processing](http://biorxiv.org/content/biorxiv/early/2015/10/26/029876.abstract "Nikolaus Kriegeskorte")
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf "Yoav Goldberg")
 
 ## Books
