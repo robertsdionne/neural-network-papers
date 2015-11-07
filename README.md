@@ -406,6 +406,7 @@
   * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28)) ([github.com/oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox))
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
 * [Structured Transforms for Small-Footprint Deep Learning](http://arxiv.org/abs/1510.01722 "Vikas Sindhwani, Tara N. Sainath, Sanjiv Kumar")
+* [An exploration of parameter redundancy in deep networks with circulant projections](http://arxiv.org/abs/1502.03436 "Yu Cheng, Felix X. Yu, Rogerio S. Feris, Sanjiv Kumar, Alok Choudhary, Shih-Fu Chang")
 * [A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding](http://arxiv.org/abs/1510.00149 "Song Han, Huizi Mao, William J. Dally")
 * [Learning both Weights and Connections for Efficient Neural Networks](http://arxiv.org/abs/1506.02626 "Song Han, Jeff Pool, John Tran, William J. Dally")
 * [Compressing Neural Networks with the Hashing Trick](http://arxiv.org/abs/1504.04788 "Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen")
