@@ -439,8 +439,9 @@
 * [Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767 "Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind")
 
 ## Motion Planning
-* [Continuous Character Control with Low-Dimensional Embeddings](https://graphics.stanford.edu/projects/ccclde/ "Sergey Levine,	Jack M. Wang,	Alexis Haraux,	Zoran Popović,	Vladlen Koltun")
+* [Interactive Control of Diverse Complex Characters with Neural Networks] (http://www.eecs.berkeley.edu/~igor.mordatch/policy/index.html "Igor Mordatch, Kendall Lowrey, Galen Andrew, Zoran Popović, Emanuel Todorov")
 * [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971 "Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra")
+* [Continuous Character Control with Low-Dimensional Embeddings](https://graphics.stanford.edu/projects/ccclde/ "Sergey Levine,	Jack M. Wang,	Alexis Haraux,	Zoran Popović,	Vladlen Koltun")
 * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](http://arxiv.org/abs/1509.06825 "Lerrel Pinto, Abhinav Gupta") ([youtu.be/oSqHc0nLkm8](http://youtu.be/oSqHc0nLkm8))
 * [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702 "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel") ([youtu.be/Q4bMcUk6pcw](http://youtu.be/Q4bMcUk6pcw))
 * [Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186 "Sertac Karaman, Emilio Frazzoli") ([youtu.be/r34XWEZ41HA](http://youtu.be/r34XWEZ41HA))
