@@ -258,6 +258,8 @@
 
 ## Convolutional Recurrent Neural Networks
 * [Recurrent Spatial Transformer Networks](http://arxiv.org/abs/1509.05329 "Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe, Ole Winther") ([github.com/skaae/recurrent-spatial-transformer-code](https://github.com/skaae/recurrent-spatial-transformer-code))
+* [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247 "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu")
+  * [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755 "Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu")
 * [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/abs/1506.04214 "Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, Wang-chun Woo")
 * [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053 "Kyunghyun Cho, Aaron Courville, Yoshua Bengio")
 
