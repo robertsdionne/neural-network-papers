@@ -35,6 +35,7 @@
 
 ## Other Lists
 * [DeepLearning.University – An Annotated Deep Learning Bibliography | Memkite](http://memkite.com/deep-learning-bibliography/ "Amund Tveit") ([github.com/memkite/DeepLearningBibliography](https://github.com/memkite/DeepLearningBibliography))
+* [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP "Andrew Thomas")
 * [Reading List « Deep Learning](http://deeplearning.net/reading-list/ "Caglar Gulcehre et al.")
 * [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit "Institut des algorithmes d'apprentissage de Montréal (Montreal Institute for Learning Algorithms)")
 * [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn "Jiwon Kim")
