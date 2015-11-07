@@ -26,12 +26,13 @@
 23. [Numerical Precision](#numerical-precision)
 24. [Numerical Optimization](#numerical-optimization)
 25. [Motion Planning](#motion-planning)
-26. [Hardware](#hardware)
-27. [Cognitive Architectures](#cognitive-architectures)
-28. [Computational Creativity](#computational-creativity)
-29. [Cryptography](#cryptography)
-30. [Distributed Computing](#distributed-computing)
-31. [Clustering](#clustering)
+26. [Simulation](#simulation)
+27. [Hardware](#hardware)
+28. [Cognitive Architectures](#cognitive-architectures)
+29. [Computational Creativity](#computational-creativity)
+30. [Cryptography](#cryptography)
+31. [Distributed Computing](#distributed-computing)
+32. [Clustering](#clustering)
 
 ## Other Lists
 * [DeepLearning.University – An Annotated Deep Learning Bibliography | Memkite](http://memkite.com/deep-learning-bibliography/ "Amund Tveit") ([github.com/memkite/DeepLearningBibliography](https://github.com/memkite/DeepLearningBibliography))
@@ -457,6 +458,9 @@
   * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4)) ([github.com/utiasASRL/batch-informed-trees](https://github.com/utiasASRL/batch-informed-trees))
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
 * [Stability of Surface Contacts for Humanoid Robots: Closed-Form Formulae of the Contact Wrench Cone for Rectangular Support Areas](http://arxiv.org/abs/1501.04719 "Stéphane Caron, Quang-Cuong Pham, Yoshihiko Nakamura") ([github.com/Tastalian/surface-contacts-icra-2015](https://github.com/Tastalian/surface-contacts-icra-2015))
+
+## Simulation
+* [Data-Driven Fluid Simulations using Regression Forests](http://people.inf.ethz.ch/sjeong/physicsforests/index.html "Ľubor Ladický, SoHyeon Jeong, Barbara Solenthaler, Marc Pollefeys, Markus Gross") ([vimeo.com/144267433](https://vimeo.com/144267433)) ([vimeo.com/144266101](https://vimeo.com/144266101))
 
 ## Hardware
 * [Towards Trainable Media: Using Waves for Neural Network-Style Training](http://arxiv.org/abs/1510.03776 "Michiel Hermans, Thomas Van Vaerenbergh")
