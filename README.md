@@ -149,6 +149,7 @@
 ### Attention Mechanisms
 * [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/abs/1409.0473 "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio")
 * [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285 "Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, Richard Socher")
+* [Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/abs/1510.08565 "Kaisheng Yao, Geoffrey Zweig, Baolin Peng")
 
 ### Sequence-to-Sequence Learning
 * [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://arxiv.org/abs/1506.01057 "Jiwei Li, Minh-Thang Luong, Dan Jurafsky") ([github.com/jiweil/Hierarchical-Neural-Autoencoder](https://github.com/jiweil/Hierarchical-Neural-Autoencoder))
