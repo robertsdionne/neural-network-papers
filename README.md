@@ -389,7 +389,7 @@
 * [Notes on Noise Contrastive Estimation and Negative Sampling](http://arxiv.org/abs/1410.8251 "Chris Dyer")
 * [Scale-invariant learning and convolutional networks](http://arxiv.org/abs/1506.08230 "Soumith Chintala, Marc'Aurelio Ranzato, Arthur Szlam, Yuandong Tian, Mark Tygert, Wojciech Zaremba")
 * [Empirical Evaluation of Rectified Activations in Convolutional Network](http://arxiv.org/abs/1505.00853 "Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li")
-* [Deep Boosting](http://jmlr.org/proceedings/papers/v32/cortesb14.html "Corinna Cortes, Mehryar Mohri, Umar Syed")
+* [Deep Boosting](http://jmlr.org/proceedings/papers/v32/cortesb14.html "Corinna Cortes, Mehryar Mohri, Umar Syed") ([github.com/google/deepboost](https://github.com/google/deepboost))
 * [No Regret Bound for Extreme Bandits](http://arxiv.org/abs/1508.02933 "Robert Nishihara, David Lopez-Paz, Léon Bottou")
 
 ## Parallel Training
