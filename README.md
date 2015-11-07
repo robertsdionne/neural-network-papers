@@ -229,7 +229,7 @@
 * [Invariant backpropagation: how to train a transformation-invariant neural network](http://arxiv.org/abs/1502.04434 "Sergey Demyanov, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie")
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
-* [Learning 3D Shape (1)](http://danfischetti.github.io/jekyll/update/2015/10/24/understanding-shape-1.html "Dan Fischetti")
+* [Learning 3D Shape (1)](http://danfischetti.github.io/jekyll/update/2015/10/24/understanding-shape-1.html "Dan Fischetti") ([github.com/danfischetti/shape-classifier](https://github.com/danfischetti/shape-classifier))
 
 ## Recurrent Neural Networks
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
