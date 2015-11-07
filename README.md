@@ -132,6 +132,7 @@
 
 ### Sentence and Paragraph Vectors
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
+* [Document Embedding with Paragraph Vectors](http://arxiv.org/abs/1507.07998 "Andrew M. Dai, Christopher Olah, Quoc V. Le")
 * [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
 * [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726 "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler") ([github.com/ryankiros/skip-thoughts](https://github.com/ryankiros/skip-thoughts))
 * [From Word Embeddings To Document Distances](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf "Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger")
