@@ -200,6 +200,7 @@
 * [Very Deep Multilingual Convolutional Neural Networks for LVCSR](http://arxiv.org/abs/1509.08967 "Tom Sercu, Christian Puhrsch, Brian Kingsbury, Yann LeCun")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
 * [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich") ([github.com/google/inception](https://github.com/google/inception))
+* [Convolutional Networks on Graphs for Learning Molecular Fingerprints](http://arxiv.org/abs/1509.09292 "David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, Ryan P. Adams") ([github.com/HIPS/neural-fingerprint](https://github.com/HIPS/neural-fingerprint))
 * [Deep Learning for Single-View Instance Recognition](http://arxiv.org/abs/1507.08286 "David Held, Sebastian Thrun, Silvio Savarese")
 * [Learning to Generate Chairs with Convolutional Neural Networks](http://arxiv.org/abs/1411.5928 "Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox") ([github.com/stokasto/caffe/tree/chairs_deconv](https://github.com/stokasto/caffe/tree/chairs_deconv))
 * [Deep Convolutional Inverse Graphics Network](http://arxiv.org/abs/1503.03167 "Tejas D. Kulkarni, Will Whitney, Pushmeet Kohli, Joshua B. Tenenbaum")
