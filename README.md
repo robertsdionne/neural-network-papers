@@ -224,6 +224,7 @@
 * [Deep Fried Convnets](http://arxiv.org/abs/1412.7149 "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang")
 * [Fractional Max-Pooling](http://arxiv.org/abs/1412.6071 "Benjamin Graham")
 * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/abs/1312.6034 "Karen Simonyan, Andrea Vedaldi, Andrew Zisserman")
+* [Learning FRAME Models Using CNN Filters for Knowledge Visualization](http://arxiv.org/abs/1509.08379v2 "Yang Lu, Song-Chun Zhu, Ying Nian Wu") ([code](http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html))
 * [Invariant backpropagation: how to train a transformation-invariant neural network](http://arxiv.org/abs/1502.04434 "Sergey Demyanov, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie")
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html "Sander Dieleman")
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/ "Christopher Olah")
