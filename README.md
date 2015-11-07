@@ -453,6 +453,7 @@
   * [Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic](http://arxiv.org/abs/1404.2334 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/nsl-5MZfwu4](http://youtu.be/nsl-5MZfwu4))
   * [Batch Informed Trees (BIT*): Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs](http://arxiv.org/abs/1405.5848 "Jonathan D. Gammell, Siddhartha S. Srinivasa, Timothy D. Barfoot") ([youtu.be/TQIoCC48gp4](http://youtu.be/TQIoCC48gp4)) ([github.com/utiasASRL/batch-informed-trees](https://github.com/utiasASRL/batch-informed-trees))
 * [Planning biped locomotion using motion capture data and probabilistic roadmaps](http://dl.acm.org/citation.cfm?id=636889 "Min Gyu Choi, Jehee Lee, Sung Yong Shin")  ([youtu.be/cKrcjrdnD-M](http://youtu.be/cKrcjrdnD-M))
+* [Stability of Surface Contacts for Humanoid Robots: Closed-Form Formulae of the Contact Wrench Cone for Rectangular Support Areas](http://arxiv.org/abs/1501.04719 "Stéphane Caron, Quang-Cuong Pham, Yoshihiko Nakamura") ([github.com/Tastalian/surface-contacts-icra-2015](https://github.com/Tastalian/surface-contacts-icra-2015))
 
 ## Hardware
 * [Towards Trainable Media: Using Waves for Neural Network-Style Training](http://arxiv.org/abs/1510.03776 "Michiel Hermans, Thomas Van Vaerenbergh")
