@@ -196,6 +196,7 @@
 * [Fast Algorithms for Convolutional Neural Networks](http://arxiv.org/abs/1509.09308 "Andrew Lavin")
 * [Striving for Simplicity: The All Convolutional Net](http://arxiv.org/abs/1412.6806 "Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, Martin Riedmiller")
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](http://arxiv.org/abs/1409.1556 "Karen Simonyan, Andrew Zisserman")
+* [Very Deep Multilingual Convolutional Neural Networks for LVCSR](http://arxiv.org/abs/1509.08967 "Tom Sercu, Christian Puhrsch, Brian Kingsbury, Yann LeCun")
 * [Network In Network](http://arxiv.org/abs/1312.4400 "Min Lin, Qiang Chen, Shuicheng Yan")
 * [Going Deeper with Convolutions](http://arxiv.org/abs/1409.4842 "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich") ([github.com/google/inception](https://github.com/google/inception))
 * [Deep Learning for Single-View Instance Recognition](http://arxiv.org/abs/1507.08286 "David Held, Sebastian Thrun, Silvio Savarese")
