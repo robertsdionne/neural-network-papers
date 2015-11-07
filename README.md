@@ -299,7 +299,7 @@
 
 ## Unsupervised Learning
 * [Index-learning of unsupervised low dimensional embedding](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/graham/indexlearning.pdf "Ben Graham")
-* [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang")
+* [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang") ([github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015](https://github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015))
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
 * [Unsupervised Feature Learning from Temporal Data](http://arxiv.org/abs/1504.02518 "Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun")
 * [Learning to Linearize Under Uncertainty](http://arxiv.org/abs/1506.03011 "Ross Goroshin, Michael Mathieu, Yann LeCun")
