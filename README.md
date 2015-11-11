@@ -62,6 +62,7 @@
 * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://arxiv.org/abs/1506.08909 "Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau") ([cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/))
 * [Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books](http://arxiv.org/abs/1506.06724 "Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler") ([BookCorpus](http://www.cs.toronto.edu/~mbweb/))
 * [Every publicly available Reddit comment, for research.](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/ "Stuck_In_the_Matrix")
+* [Stack Exchange Data Dump](https://archive.org/details/stackexchange "Stack Exchange")
 * [Europarl: A Parallel Corpus for Statistical Machine Translation](http://www.iccs.inf.ed.ac.uk/~pkoehn/publications/europarl-mtsummit05.pdf "Philipp Koehn") ([www.statmt.org/europarl/](http://www.statmt.org/europarl/))
 * [RTE Knowledge Resources](http://aclweb.org/aclwiki/index.php?title=RTE_Knowledge_Resources)
 
