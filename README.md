@@ -155,6 +155,7 @@
 
 ### Character Vectors
 * [Alternative structures for character-level RNNs](http://arxiv.org/abs/1511.06303 "Piotr Bojanowski, Armand Joulin, Tomas Mikolov")
+* [Character-based Neural Machine Translation](http://arxiv.org/abs/1511.04586 "Wang Ling, Isabel Trancoso, Chris Dyer, Alan W Black")
 * [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso") ([github.com/wlin12/JNN](https://github.com/wlin12/JNN))
 * [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush") ([github.com/yoonkim/lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn))
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
