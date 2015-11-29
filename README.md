@@ -93,7 +93,10 @@
 * [Probabilistic Programming in Python using PyMC](http://arxiv.org/abs/1507.08050 "John Salvatier, Thomas Wiecki, Christopher Fonnesbeck")
 
 ## Learning to Compute
+* [Neural Random-Access Machines](http://arxiv.org/abs/1511.06392 "Karol Kurach, Marcin Andrychowicz, Ilya Sutskever")
+* [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275 "Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus")
 * [Neural Programmer: Inducing Latent Programs with Gradient Descent](http://arxiv.org/abs/1511.04834 "Arvind Neelakantan, Quoc V. Le, Ilya Sutskever")
+* [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279 "Scott Reed, Nando de Freitas")
 * [Neural Turing Machines](http://arxiv.org/abs/1410.5401 "Alex Graves, Greg Wayne, Ivo Danihelka")
   * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521 "Wojciech Zaremba, Ilya Sutskever")
   * [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931 "Wei Zhang, Yang Yu, Bowen Zhou")
