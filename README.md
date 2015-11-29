@@ -379,6 +379,7 @@
 
 ## Training Innovations
 * [Adding Gradient Noise Improves Learning for Very Deep Networks](http://arxiv.org/abs/1511.06807 "Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Ilya Sutskever, Lukasz Kaiser, Karol Kurach, James Martens")
+* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289 "Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter")
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams") ([github.com/HIPS/hypergrad](https://github.com/HIPS/hypergrad))
 * [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
