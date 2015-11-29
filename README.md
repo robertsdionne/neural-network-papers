@@ -12,6 +12,7 @@
 9. [Convolutional Neural Networks](#convolutional-neural-networks)
 10. [Recurrent Neural Networks](#recurrent-neural-networks)
 11. [Convolutional Recurrent Neural Networks](#convolutional-recurrent-neural-networks)
+12. [Adversarial Neural Networks](#adversarial-neural-networks)
 12. [Autoencoders](#autoencoders)
 13. [Restricted Boltzmann Machines](#restricted-boltzmann-machines)
 14. [Biologically Plausible Learning](#biologically-plausible-learning)
@@ -241,6 +242,7 @@
 * [Learning 3D Shape (1)](http://danfischetti.github.io/jekyll/update/2015/10/24/understanding-shape-1.html "Dan Fischetti") ([github.com/danfischetti/shape-classifier](https://github.com/danfischetti/shape-classifier))
 
 ## Recurrent Neural Networks
+* [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/abs/1511.06464v1 "Martin Arjovsky, Amar Shah, Yoshua Bengio")
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
@@ -271,6 +273,11 @@
   * [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755 "Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu")
 * [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/abs/1506.04214 "Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, Wang-chun Woo")
 * [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053 "Kyunghyun Cho, Aaron Courville, Yoshua Bengio")
+
+## Adversarial Neural Networks
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434 "Alec Radford, Luke Metz, Soumith Chintala")
+* [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks](http://arxiv.org/abs/1511.06390 "Jost Tobias Springenberg")
+* [Adversarial Autoencoders](http://arxiv.org/abs/1511.05644v1 "Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow")
 
 ## Autoencoders
 * [Correlational Neural Networks](http://arxiv.org/abs/1504.07225 "Sarath Chandar, Mitesh M. Khapra, Hugo Larochelle, Balaraman Ravindran")
