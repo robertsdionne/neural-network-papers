@@ -395,6 +395,7 @@
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams") ([github.com/HIPS/hypergrad](https://github.com/HIPS/hypergrad))
 * [Learning Ordered Representations with Nested Dropout](http://arxiv.org/abs/1402.0915 "Oren Rippel, Michael A. Gelbart, Ryan P. Adams")
 * [Learning Compact Convolutional Neural Networks with Nested Dropout](http://arxiv.org/abs/1412.7155 "Chelsea Finn, Lisa Anne Hendricks, Trevor Darrell")
+* [Reducing Overfitting in Deep Networks by Decorrelating Representations](http://arxiv.org/abs/1511.06068 "Michael Cogswell, Faruk Ahmed, Ross Girshick, Larry Zitnick, Dhruv Batra")
 * [Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets](http://arxiv.org/abs/1412.7091 "Pascal Vincent, Alexandre de Brébisson, Xavier Bouthillier")
 * [Efficient Per-Example Gradient Computations](http://arxiv.org/abs/1510.01799 "Ian Goodfellow")
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099 "Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer")
