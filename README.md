@@ -154,6 +154,7 @@
 * [From Word Embeddings To Document Distances](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf "Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger")
 
 ### Character Vectors
+* [Alternative structures for character-level RNNs](http://arxiv.org/abs/1511.06303 "Piotr Bojanowski, Armand Joulin, Tomas Mikolov")
 * [Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation](http://arxiv.org/abs/1508.02096 "Wang Ling, Tiago Luís, Luís Marujo, Ramón Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W. Black, Isabel Trancoso") ([github.com/wlin12/JNN](https://github.com/wlin12/JNN))
 * [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615 "Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush") ([github.com/yoonkim/lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn))
 * [Modeling Order in Neural Word Embeddings at Scale](http://arxiv.org/abs/1506.02338 "Andrew Trask, David Gilmore, Matthew Russell")
@@ -243,6 +244,7 @@
 
 ## Recurrent Neural Networks
 * [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/abs/1511.06464v1 "Martin Arjovsky, Amar Shah, Yoshua Bengio")
+* [Order Matters: Sequence to sequence for sets](http://arxiv.org/abs/1511.06391 "Oriol Vinyals, Samy Bengio, Manjunath Kudlur")
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
