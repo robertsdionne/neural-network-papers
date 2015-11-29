@@ -174,6 +174,7 @@
 
 ### Language Understanding
 * [Reasoning about Entailment with Neural Attention](http://arxiv.org/abs/1509.06664 "Tim Rocktäschel, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, Phil Blunsom")
+* [The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations](http://arxiv.org/abs/1511.02301 "Felix Hill, Antoine Bordes, Sumit Chopra, Jason Weston")
 * [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](http://www.iro.umontreal.ca/~lisa/pointeurs/RNNSpokenLanguage2013.pdf "Grégoire Mesnil, Xiaodong He, Li Deng, Yoshua Bengio")
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941 "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay") ([github.com/karthikncode/text-world-player](https://github.com/karthikncode/text-world-player))
 
