@@ -167,6 +167,7 @@
 * [Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/abs/1510.08565 "Kaisheng Yao, Geoffrey Zweig, Baolin Peng")
 
 ### Sequence-to-Sequence Learning
+* [Multi-task Sequence to Sequence Learning](http://arxiv.org/abs/1511.06114 "Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser")
 * [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://arxiv.org/abs/1506.01057 "Jiwei Li, Minh-Thang Luong, Dan Jurafsky") ([github.com/jiweil/Hierarchical-Neural-Autoencoder](https://github.com/jiweil/Hierarchical-Neural-Autoencoder))
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/abs/1406.1078 "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")
