@@ -519,6 +519,7 @@
 * [A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/abs/1406.2294 "John Lamping, Eric Veach")
 
 ## Clustering
+* [Convolutional Clustering for Unsupervised Learning](http://arxiv.org/abs/1511.06241 "Aysegul Dundar, Jonghoon Jin, Eugenio Culurciello")
 * [Deep clustering: Discriminative embeddings for segmentation and separation](http://arxiv.org/abs/1508.04306 "John R. Hershey, Zhuo Chen, Jonathan Le Roux, Shinji Watanabe")
 * [Clustering is Easy When ....What?](http://arxiv.org/abs/1510.05336 "Shai Ben-David")
 * [Clustering by fast search and find of density peaks](https://dl.dropboxusercontent.com/u/182368464/2014-rodriguez.pdf "Alex Rodriguez, Alessandro Laio")
