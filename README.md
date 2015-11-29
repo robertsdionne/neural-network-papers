@@ -313,6 +313,7 @@
 * [Efficient and Parsimonious Agnostic Active Learning](http://arxiv.org/abs/1506.08669 "Tzu-Kuo Huang, Alekh Agarwal, Daniel J. Hsu, John Langford, Robert E. Schapire")
 
 ## Unsupervised Learning
+* [Towards Principled Unsupervised Learning](http://arxiv.org/abs/1511.06440 "Ilya Sutskever, Rafal Jozefowicz, Karol Gregor, Danilo Rezende, Tim Lillicrap, Oriol Vinyals")
 * [Index-learning of unsupervised low dimensional embedding](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/graham/indexlearning.pdf "Ben Graham")
 * [An Analysis of Unsupervised Pre-training in Light of Recent Advances](http://arxiv.org/abs/1412.6597 "Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang") ([github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015](https://github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015))
 * [Is Joint Training Better for Deep Auto-Encoders?](http://arxiv.org/abs/1405.1380 "Yingbo Zhou, Devansh Arpit, Ifeoma Nwogu, Venu Govindaraju")
