@@ -182,6 +182,7 @@
 
 ### Question Answering, and Conversing
 * [Large-scale Simple Question Answering with Memory Networks](http://arxiv.org/abs/1506.02075 "Antoine Bordes, Nicolas Usunier, Sumit Chopra, Jason Weston")
+* [Reasoning in Vector Space: An Exploratory Study of Question Answering](http://arxiv.org/abs/1511.06426 "Moontae Lee, Xiaodong He, Wen-tau Yih, Jianfeng Gao, Li Deng, Paul Smolensky")
 * [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
 * [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/abs/1503.02364 "Lifeng Shang, Zhengdong Lu, Hang Li")
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869 "Oriol Vinyals, Quoc Le")
