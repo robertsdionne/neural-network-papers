@@ -189,6 +189,7 @@
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941 "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay") ([github.com/karthikncode/text-world-player](https://github.com/karthikncode/text-world-player))
 
 ### Question Answering, and Conversing
+* [A Cognitive Neural Architecture Able to Learn and Communicate through Natural Language](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140866 "Bruno Golosio, Angelo Cangelosi, Olesya Gamotina, Giovanni Luca Masala") ([github.com/golosio/annabell](https://github.com/golosio/annabell))
 * [Large-scale Simple Question Answering with Memory Networks](http://arxiv.org/abs/1506.02075 "Antoine Bordes, Nicolas Usunier, Sumit Chopra, Jason Weston")
 * [Reasoning in Vector Space: An Exploratory Study of Question Answering](http://arxiv.org/abs/1511.06426 "Moontae Lee, Xiaodong He, Wen-tau Yih, Jianfeng Gao, Li Deng, Paul Smolensky")
 * [Deep Learning for Answer Sentence Selection](http://arxiv.org/abs/1412.1632 "Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman")
