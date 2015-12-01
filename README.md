@@ -171,6 +171,8 @@
 
 ### Sequence-to-Sequence Learning
 * [Multi-task Sequence to Sequence Learning](http://arxiv.org/abs/1511.06114 "Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser")
+* [Order Matters: Sequence to sequence for sets](http://arxiv.org/abs/1511.06391 "Oriol Vinyals, Samy Bengio, Manjunath Kudlur")
+* [Task Loss Estimation for Sequence Prediction](http://arxiv.org/abs/1511.06456 "Dzmitry Bahdanau, Dmitriy Serdyuk, Philémon Brakel, Nan Rosemary Ke, Jan Chorowski, Aaron Courville, Yoshua Bengio")
 * [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://arxiv.org/abs/1506.01057 "Jiwei Li, Minh-Thang Luong, Dan Jurafsky") ([github.com/jiweil/Hierarchical-Neural-Autoencoder](https://github.com/jiweil/Hierarchical-Neural-Autoencoder))
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215 "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/abs/1406.1078 "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")
@@ -251,7 +253,6 @@
 
 ## Recurrent Neural Networks
 * [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/abs/1511.06464v1 "Martin Arjovsky, Amar Shah, Yoshua Bengio")
-* [Order Matters: Sequence to sequence for sets](http://arxiv.org/abs/1511.06391 "Oriol Vinyals, Samy Bengio, Manjunath Kudlur")
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
