@@ -356,6 +356,7 @@
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/abs/1509.01549 "Matthew Lai") ([bitbucket.org/waterreaction/giraffe](https://bitbucket.org/waterreaction/giraffe))
 
 ## Theory
+* [The Human Kernel](http://arxiv.org/abs/1510.07389 "Andrew Gordon Wilson, Christoph Dann, Christopher G. Lucas, Eric P. Xing")
 * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009 "Nadav Cohen, Or Sharir, Amnon Shashua")
 * [ℓ1-regularized Neural Networks are Improperly Learnable in Polynomial Time](http://arxiv.org/abs/1510.03528 "Yuchen Zhang, Jason D. Lee, Michael I. Jordan")
 * [Provable approximation properties for deep neural networks](http://arxiv.org/abs/1509.07385 "Uri Shaham, Alexander Cloninger, Ronald R. Coifman")
