@@ -347,6 +347,7 @@
 
 ## Reinforcement Learning
 * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731 "Shakir Mohamed, Danilo Jimenez Rezende")
+* [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952 "Tom Schaul, John Quan, Ioannis Antonoglou, David Silver")
 * [Human-level control through deep reinforcement learning](http://rdcu.be/cdlg "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei Rusu, Joel Veness, Marc Bellemare, Alex Graves, Martin Riedmiller, Andreas Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis") ([sites.google.com/a/deepmind.com/dqn](https://sites.google.com/a/deepmind.com/dqn))
 * [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602 "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller")
 * [Universal Value Function Approximators](http://jmlr.org/proceedings/papers/v37/schaul15.html "Tom Schaul, Daniel Horgan, Karol Gregor, David Silver")
