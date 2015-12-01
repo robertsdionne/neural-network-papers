@@ -96,6 +96,9 @@
 
 ## Learning to Compute
 * [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228 "Łukasz Kaiser, Ilya Sutskever")
+* [A Roadmap towards Machine Intelligence](http://arxiv.org/abs/1511.08130 "Tomas Mikolov, Armand Joulin, Marco Baroni")
+* [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/abs/1511.09249 "Juergen Schmidhuber")
+* [Binding via Reconstruction Clustering](http://arxiv.org/abs/1511.06418 "Klaus Greff, Rupesh Kumar Srivastava, Jürgen Schmidhuber")
 * [Neural Random-Access Machines](http://arxiv.org/abs/1511.06392 "Karol Kurach, Marcin Andrychowicz, Ilya Sutskever")
 * [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275 "Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus")
 * [Neural Programmer: Inducing Latent Programs with Gradient Descent](http://arxiv.org/abs/1511.04834 "Arvind Neelakantan, Quoc V. Le, Ilya Sutskever")
