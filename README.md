@@ -253,6 +253,7 @@
 
 ## Recurrent Neural Networks
 * [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/abs/1511.06464v1 "Martin Arjovsky, Amar Shah, Yoshua Bengio")
+* [Regularizing RNNs by Stabilizing Activations](http://arxiv.org/abs/1511.08400 "David Krueger, Roland Memisevic")
 * [Training recurrent networks online without backtracking](http://arxiv.org/abs/1507.07680 "Yann Ollivier, Guillaume Charpiat")
 * [Modeling sequential data using higher-order relational features and predictive training](http://arxiv.org/abs/1402.2333 "Vincent Michalski, Roland Memisevic, Kishore Konda") ([github.com/memisevic/grammar-cells](https://github.com/memisevic/grammar-cells))
 * [Recurrent Neural Network Regularization](http://arxiv.org/abs/1409.2329 "Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals")
