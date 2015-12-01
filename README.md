@@ -439,7 +439,7 @@
 * [HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://arxiv.org/abs/1106.5730 "Feng Niu, Benjamin Recht, Christopher Re, Stephen J. Wright")
 
 ## Weight Compression
-* [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov") ([github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet))
+* [Tensorizing Neural Networks](http://arxiv.org/abs/1509.06569 "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov") ([github.com/Bihaqo/TensorNet](https://github.com/Bihaqo/TensorNet)) ([github.com/vadimkantorov/tensornet.torch](https://github.com/vadimkantorov/tensornet.torch))
   * [Tensorizing Neural Networks presentation](http://matrix.inm.ras.ru/presentations-2015/Novikov.pdf "Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov")
   * [Tensor-Train Decomposition](http://epubs.siam.org/doi/abs/10.1137/090752286 "I. V. Oseledets") ([pdf](http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28)) ([github.com/oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox))
   * [Spectral tensor-train decomposition](http://arxiv.org/abs/1405.5713 "Daniele Bigoni, Allan P. Engsig-Karup, Youssef M. Marzouk")
