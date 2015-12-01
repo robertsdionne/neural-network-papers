@@ -151,6 +151,7 @@
 * [Language Recognition using Random Indexing](http://arxiv.org/abs/1412.7026 "Aditya Joshi, Johan Halseth, Pentti Kanerva")
 
 ### Sentence and Paragraph Vectors
+* [Generating Sentences from a Continuous Space](http://arxiv.org/abs/1511.06349 "Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio")
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/abs/1405.4053 "Quoc V. Le, Tomas Mikolov")
 * [Document Embedding with Paragraph Vectors](http://arxiv.org/abs/1507.07998 "Andrew M. Dai, Christopher Olah, Quoc V. Le")
 * [A Fixed-Size Encoding Method for Variable-Length Sequences with its Application to Neural Network Language Models](http://arxiv.org/abs/1505.01504 "Shiliang Zhang, Hui Jiang, Mingbin Xu, Junfeng Hou, Lirong Dai")
