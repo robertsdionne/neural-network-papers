@@ -133,6 +133,7 @@
 * [Language Models for Image Captioning: The Quirks and What Works](http://arxiv.org/abs/1505.01809 "Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell")
 * [Zero-Shot Learning Through Cross-Modal Transfer](http://arxiv.org/abs/1301.3666 "Richard Socher, Milind Ganjoo, Hamsa Sridhar, Osbert Bastani, Christopher D. Manning, Andrew Y. Ng")
 * [On Using Very Large Target Vocabulary for Neural Machine Translation](http://arxiv.org/abs/1412.2007 "Sébastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio")
+* [BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies](http://arxiv.org/abs/1511.06909 "Shihao Ji, S. V. N. Vishwanathan, Nadathur Satish, Michael J. Anderson, Pradeep Dubey")
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf "Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III")
 
 ### Word Vectors
