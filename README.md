@@ -318,6 +318,7 @@
   * [Reweighted Wake-Sleep](http://arxiv.org/abs/1406.2751 "Jörg Bornschein, Yoshua Bengio")
 * [An Infinite Restricted Boltzmann Machine](http://arxiv.org/abs/1502.02476 "Marc-Alexandre Côté, Hugo Larochelle")
 * [Quantum Inspired Training for Boltzmann Machines](http://arxiv.org/abs/1507.02642 "Nathan Wiebe, Ashish Kapoor, Christopher Granade, Krysta M Svore")
+* [Training Bidirectional Helmholtz Machines](http://arxiv.org/abs/1506.03877 "Jorg Bornschein, Samira Shabanian, Asja Fischer, Yoshua Bengio")
 
 ## Biologically Plausible Learning
 * [How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation](http://arxiv.org/abs/1407.7906 "Yoshua Bengio")
