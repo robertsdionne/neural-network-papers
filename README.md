@@ -409,6 +409,7 @@
 * [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](http://arxiv.org/abs/1511.07289 "Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter")
 * [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641 "Tianqi Chen, Ian Goodfellow, Jonathon Shlens")
 * [Learning the Architecture of Deep Neural Networks](http://arxiv.org/abs/1511.05497 "Suraj Srinivas, R. Venkatesh Babu")
+* [GradNets: Dynamic Interpolation Between Neural Architectures](http://arxiv.org/abs/1511.06827 "Diogo Almeida, Nate Sauder")
 * [Reducing the Training Time of Neural Networks by Partitioning](http://arxiv.org/abs/1511.02954 "Conrado S. Miranda, Fernando J. Von Zuben")
 * [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788 "Thomas M. Breuel")
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492 "Dougal Maclaurin, David Duvenaud, Ryan P. Adams") ([github.com/HIPS/hypergrad](https://github.com/HIPS/hypergrad))
