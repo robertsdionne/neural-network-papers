@@ -1,6 +1,6 @@
 javascript:(function arxivMarkdown() {
   /**
-   * Bookmarklet that builds a markdown link for an arxiv paper abstract into the clipboard, e.g.:
+   * Bookmarklet that builds a markdown link for an arxiv paper abstract and copies it to the clipboard, e.g.:
    *   [Title](http://arxiv.org/abs/xxxx.xxxxx "Author 1, Author 2")
    */
   var title = document.querySelector('.title').innerText;
