@@ -281,6 +281,7 @@
 * [Learning Stochastic Recurrent Networks](http://arxiv.org/abs/1411.7610 "Justin Bayer, Christian Osendorfer")
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "Christopher Olah")
 * [Optimizing RNN performance](https://svail.github.io/ "Erich Elsen")
+* [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.readcube.com/articles/10.1038%2Fnature16961 "David Silver,	Aja Huang,	Chris J. Maddison,	Arthur Guez,	Laurent Sifre,	George van den Driessche,	Julian Schrittwieser,	Ioannis Antonoglou,	Veda Panneershelvam,	Marc Lanctot, Sander Dieleman,	Dominik Grewe,	John Nham,	Nal Kalchbrenner,	Ilya Sutskever,	Timothy Lillicrap,	Madeleine Leach,	Koray Kavukcuoglu,	Thore Graepel	& Demis Hassabis")
 
 ## Convolutional Recurrent Neural Networks
 * [Recurrent Spatial Transformer Networks](http://arxiv.org/abs/1509.05329 "Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe, Ole Winther") ([github.com/skaae/recurrent-spatial-transformer-code](https://github.com/skaae/recurrent-spatial-transformer-code))
